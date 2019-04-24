@@ -1,0 +1,12 @@
+Results after 6 epochs...
+Word: yedi  Actual: yedi  Predicted: de
+___________________________________________
+Word: yabancıyı  Actual: yabancı  Predicted: baraa
+___________________________________________
+Word: ölüm  Actual: ölüm  Predicted: kol
+___________________________________________
+Word: Türkiye'de  Actual: Türkiye  Predicted: beree
+___________________________________________
+Word: yakaladı  Actual: yakala  Predicted: aall
+___________________________________________
+Accuracy:  0.22319551506657323

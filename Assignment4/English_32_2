@@ -1,0 +1,60 @@
+Results after 1 epochs...
+Word: Any  Actual: any  Predicted: to
+___________________________________________
+Word: US  Actual: US  Predicted: t
+___________________________________________
+Word: attack  Actual: attack  Predicted: tooate
+___________________________________________
+Word: on  Actual: on  Predicted: ao
+___________________________________________
+Word: Iran  Actual: Iran  Predicted: taee
+___________________________________________
+Accuracy:  0.061708214139762976
+Results after 2 epochs...
+Word: Any  Actual: any  Predicted: nn
+___________________________________________
+Word: US  Actual: US  Predicted: in
+___________________________________________
+Word: attack  Actual: attack  Predicted: aaaic
+___________________________________________
+Word: on  Actual: on  Predicted: on
+___________________________________________
+Word: Iran  Actual: Iran  Predicted: aaan
+___________________________________________
+Accuracy:  0.35112382509194934
+Results after 3 epochs...
+Word: Any  Actual: any  Predicted: any
+___________________________________________
+Word: US  Actual: US  Predicted: SS
+___________________________________________
+Word: attack  Actual: attack  Predicted: aaacck
+___________________________________________
+Word: on  Actual: on  Predicted: on
+___________________________________________
+Word: Iran  Actual: Iran  Predicted: aaan
+___________________________________________
+Accuracy:  0.4696771557008582
+Results after 4 epochs...
+Word: Any  Actual: any  Predicted: any
+___________________________________________
+Word: US  Actual: US  Predicted: US
+___________________________________________
+Word: attack  Actual: attack  Predicted: catcck
+___________________________________________
+Word: on  Actual: on  Predicted: on
+___________________________________________
+Word: Iran  Actual: Iran  Predicted: raan
+___________________________________________
+Accuracy:  0.5571311810380057
+Results after 5 epochs...
+Word: Any  Actual: any  Predicted: any
+___________________________________________
+Word: US  Actual: US  Predicted: US
+___________________________________________
+Word: attack  Actual: attack  Predicted: cttcck
+___________________________________________
+Word: on  Actual: on  Predicted: on
+___________________________________________
+Word: Iran  Actual: Iran  Predicted: aran
+___________________________________________
+Accuracy:  0.615120555782591

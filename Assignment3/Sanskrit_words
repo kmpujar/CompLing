@@ -1,0 +1,712 @@
+Word:  सिंहः
+Actual: N;NOM;MASC;SG;
+Predicted:  
+___________________________________
+Word:  आह
+Actual: V;SG;IND;ACT;3;PFV;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  कदाचित्
+Actual: ADV;
+Predicted:  3;ADV;
+___________________________________
+Word:  अयम्
+Actual: SG;PRO;MASC;NOM;
+Predicted:  SG;PRO;
+___________________________________
+Word:  अनुचित
+Actual: ADJ;
+Predicted:  V;IND;ACT;3;FIN;
+___________________________________
+Word:  स्थान
+Actual: N;
+Predicted:  SG;V;IND;ACT;3;
+___________________________________
+Word:  प्रवेशात्
+Actual: N;SG;MASC;AT+ABL;
+Predicted:  MASC;SG;ACC;
+___________________________________
+Word:  भवन्तम्
+Actual: SG;ACC;PRO;MASC;FORM;3;
+Predicted:  SG;V;ACT;
+___________________________________
+Word:  अवमन्येत
+Actual: V;SG;PASS;3;FIN;OPT;
+Predicted:  SG;IND;ACT;3;
+___________________________________
+Word:  महा
+Actual: N;
+Predicted:  
+___________________________________
+Word:  कविभ्यो
+Actual: N;PL;MASC;DAT;
+Predicted:  SG;
+___________________________________
+Word:  नमः
+Actual: N;NEUT;NOM;SG;
+Predicted:  
+___________________________________
+Word:  सः
+Actual: SG;PRO;MASC;NOM;
+Predicted:  MASC;
+___________________________________
+Word:  अब्रवीत्
+Actual: V;SG;IND;ACT;3;IPFV;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  अथ
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  तत्
+Actual: 3;PRO;
+Predicted:  SG;NEUT;
+___________________________________
+Word:  मध्यतः
+Actual: ADV;
+Predicted:  MASC;SG;
+___________________________________
+Word:  सुमति
+Actual: MASC;NOM;PROPN;SG;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  नाम
+Actual: N;NOM;MASC;SG;
+Predicted:  NOM;SG;NEUT;
+___________________________________
+Word:  अमात्यः
+Actual: N;NOM;MASC;SG;
+Predicted:  NOM;
+___________________________________
+Word:  प्राह
+Actual: V;SG;PST;IND;ACT;3;PFV;FIN;
+Predicted:  
+___________________________________
+Word:  अथ
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  कदाचित्
+Actual: ADV;
+Predicted:  3;ADV;
+___________________________________
+Word:  पिङ्गलकः
+Actual: MASC;NOM;PROPN;SG;
+Predicted:  NOM;MASC;SG;
+___________________________________
+Word:  नाम
+Actual: N;NEUT;NOM;SG;
+Predicted:  NOM;SG;NEUT;
+___________________________________
+Word:  सिंहः
+Actual: N;NOM;MASC;SG;
+Predicted:  
+___________________________________
+Word:  सर्व
+Actual: DET;
+Predicted:  
+___________________________________
+Word:  मृग
+Actual: N;
+Predicted:  IND;ACT;FIN;
+___________________________________
+Word:  परिवृतः
+Actual: V;SG;PST;PASS;MASC;NOM;V.PTCP;
+Predicted:  MASC;
+___________________________________
+Word:  पिपासा
+Actual: N;
+Predicted:  SG;
+___________________________________
+Word:  कुल
+Actual: MASC;NOM;SG;ADJ;
+Predicted:  
+___________________________________
+Word:  उदक
+Actual: N;
+Predicted:  ACT;
+___________________________________
+Word:  पान
+Actual: N;
+Predicted:  
+___________________________________
+Word:  अर्थम्
+Actual: N;NEUT;SG;ACC;
+Predicted:  N;SG;
+___________________________________
+Word:  यमुना
+Actual: PROPN;
+Predicted:  
+___________________________________
+Word:  तटम्
+Actual: N;SG;MASC;ACC;
+Predicted:  SG;ACT;
+___________________________________
+Word:  अवत्र्णः
+Actual: V;SG;PST;PASS;MASC;NOM;V.PTCP;
+Predicted:  SG;IND;ACT;
+___________________________________
+Word:  यो
+Actual: SG;PRO;MASC;NOM;
+Predicted:  
+___________________________________
+Word:  न
+Actual: NEG;PART;
+Predicted:  
+___________________________________
+Word:  आत्मना
+Actual: INS;SG;PRO;
+Predicted:  SG;IND;FIN;
+___________________________________
+Word:  न
+Actual: NEG;PART;
+Predicted:  
+___________________________________
+Word:  च
+Actual: CONJ;
+Predicted:  IND;ACT;
+___________________________________
+Word:  परेण
+Actual: N;INS;SG;MASC;
+Predicted:  
+___________________________________
+Word:  च
+Actual: CONJ;
+Predicted:  IND;ACT;
+___________________________________
+Word:  बन्धु
+Actual: N;
+Predicted:  V;IND;ACT;3;FIN;
+___________________________________
+Word:  वर्गे
+Actual: N;SG;MASC;ESS;
+Predicted:  SG;V;IND;FIN;
+___________________________________
+Word:  दीने
+Actual: N;SG;MASC;ESS;
+Predicted:  SG;V;IND;FIN;
+___________________________________
+Word:  न
+Actual: NEG;PART;
+Predicted:  
+___________________________________
+Word:  कुरुते
+Actual: V;MID;SG;IND;3;PRS;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  न
+Actual: NEG;PART;
+Predicted:  
+___________________________________
+Word:  च
+Actual: CONJ;
+Predicted:  IND;ACT;
+___________________________________
+Word:  मर्त्य
+Actual: N;
+Predicted:  SG;
+___________________________________
+Word:  वर्गे
+Actual: N;SG;MASC;ESS;
+Predicted:  SG;V;IND;FIN;
+___________________________________
+Word:  यदा
+Actual: ADV;
+Predicted:  
+___________________________________
+Word:  मेघः
+Actual: N;NOM;MASC;SG;
+Predicted:  NOM;MASC;PRO;
+___________________________________
+Word:  वर्षति
+Actual: V;SG;IND;ACT;3;PRS;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  तदा
+Actual: ADV;
+Predicted:  PRO;
+___________________________________
+Word:  मयूरः
+Actual: N;NOM;MASC;SG;
+Predicted:  SG;
+___________________________________
+Word:  नृत्यति
+Actual: V;SG;IND;ACT;3;PRS;FIN;
+Predicted:  SG;V;IND;ACT;FIN;PRS;
+___________________________________
+Word:  अप्राप्त
+Actual: ADJ;
+Predicted:  
+___________________________________
+Word:  कालं
+Actual: MASC;ACC;SG;ADJ;
+Predicted:  SG;
+___________________________________
+Word:  वचनम्
+Actual: N;NEUT;SG;ACC;
+Predicted:  SG;NEUT;
+___________________________________
+Word:  बृहस्पतिः
+Actual: MASC;NOM;PROPN;SG;
+Predicted:  
+___________________________________
+Word:  अपि
+Actual: ADV;
+Predicted:  IND;ADV;
+___________________________________
+Word:  ब्रुवन्
+Actual: V;SG;MASC;ACT;PRS;NOM;V.PTCP;
+Predicted:  SG;V;IND;ACT;FIN;
+___________________________________
+Word:  न
+Actual: NEG;PART;
+Predicted:  
+___________________________________
+Word:  केवलम्
+Actual: MASC;ACC;SG;ADJ;
+Predicted:  SG;ACT;FIN;
+___________________________________
+Word:  असंमानं
+Actual: N;SG;MASC;ACC;
+Predicted:  
+___________________________________
+Word:  विप्रियत्वं
+Actual: NEUT;ACC;SG;ADJ;
+Predicted:  SG;
+___________________________________
+Word:  च
+Actual: CONJ;
+Predicted:  IND;ACT;
+___________________________________
+Word:  गच्छति
+Actual: V;SG;IND;ACT;3;PRS;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  रामः
+Actual: MASC;NOM;PROPN;SG;
+Predicted:  MASC;
+___________________________________
+Word:  यस्मात्
+Actual: SG;MASC;DET;AT+ABL;
+Predicted:  MASC;SG;PRO;
+___________________________________
+Word:  अध्यापकम्
+Actual: N;SG;MASC;ACC;
+Predicted:  SG;IND;ACT;
+___________________________________
+Word:  यत्
+Actual: SG;ACC;DET;NEUT;
+Predicted:  SG;ADV;PRO;
+___________________________________
+Word:  पुस्तकम्
+Actual: N;NEUT;SG;ACC;
+Predicted:  SG;
+___________________________________
+Word:  अपठत्
+Actual: V;SG;IND;ACT;3;IPFV;FIN;
+Predicted:  SG;PRO;
+___________________________________
+Word:  अहम्
+Actual: SG;1;PRO;NOM;
+Predicted:  NOM;SG;PRO;1;
+___________________________________
+Word:  तस्मात्
+Actual: SG;MASC;DET;AT+ABL;
+Predicted:  MASC;SG;ACC;NEUT;
+___________________________________
+Word:  अध्यापकात्
+Actual: N;SG;MASC;AT+ABL;
+Predicted:  SG;IND;ACT;
+___________________________________
+Word:  तत्
+Actual: SG;ACC;DET;NEUT;
+Predicted:  SG;NEUT;
+___________________________________
+Word:  पुस्तकम्
+Actual: N;NEUT;SG;ACC;
+Predicted:  SG;
+___________________________________
+Word:  अपठम्
+Actual: V;SG;1;IND;ACT;IPFV;FIN;
+Predicted:  SG;PRO;
+___________________________________
+Word:  ब्राह्मण्स्य
+Actual: N;GEN;SG;MASC;
+Predicted:  
+___________________________________
+Word:  निरुत्साह
+Actual: MASC;NOM;SG;ADJ;
+Predicted:  
+___________________________________
+Word:  कठोर
+Actual: N;
+Predicted:  
+___________________________________
+Word:  हृदयम्
+Actual: N;NEUT;NOM;SG;
+Predicted:  
+___________________________________
+Word:  अस्ति
+Actual: SG;IND;ACT;3;PRS;FIN;V;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  अलब्धाः
+Actual: V;NEG;PST;PASS;MASC;NOM;V.PTCP;PL;
+Predicted:  
+___________________________________
+Word:  अर्थाः
+Actual: N;PL;NOM;MASC;
+Predicted:  N;MASC;SG;
+___________________________________
+Word:  लभ्याः
+Actual: V;PASS;MASC;NOM;V.PTCP;PL;FUT;
+Predicted:  
+___________________________________
+Word:  लब्धाः
+Actual: V;PST;PASS;MASC;NOM;V.PTCP;PL;
+Predicted:  ADV;
+___________________________________
+Word:  परि
+Actual: ADV;
+Predicted:  V;IND;ACT;FIN;ADV;PRS;
+___________________________________
+Word:  रक्षणीयाः
+Actual: V;PASS;MASC;NOM;V.PTCP;PL;FUT;
+Predicted:  MASC;
+___________________________________
+Word:  रक्षिताः
+Actual: V;PST;PASS;MASC;NOM;V.PTCP;PL;
+Predicted:  MASC;
+___________________________________
+Word:  विवर्धनीयाः
+Actual: V;PASS;MASC;NOM;V.PTCP;PL;FUT;
+Predicted:  MASC;
+___________________________________
+Word:  पात्रे
+Actual: N;NEUT;SG;ESS;
+Predicted:  SG;V;IND;3;FIN;PRS;
+___________________________________
+Word:  सम्पादनीयाः
+Actual: V;PASS;MASC;NOM;V.PTCP;PL;FUT;
+Predicted:  
+___________________________________
+Word:  च
+Actual: CONJ;
+Predicted:  IND;ACT;
+___________________________________
+Word:  इति
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  सा
+Actual: SG;PRO;NOM;FEM;
+Predicted:  N;SG;
+___________________________________
+Word:  अब्रवीत्
+Actual: V;SG;IND;ACT;3;IPFV;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  अस्माभिः
+Actual: 1;PRO;PL;INS;
+Predicted:  IND;ACT;
+___________________________________
+Word:  तु
+Actual: CONJ;
+Predicted:  3;
+___________________________________
+Word:  सार्थ
+Actual: N;
+Predicted:  SG;
+___________________________________
+Word:  वाहस्य
+Actual: N;GEN;SG;MASC;
+Predicted:  
+___________________________________
+Word:  अभीष्ट
+Actual: V;SG;PST;PASS;MASC;NOM;V.PTCP;
+Predicted:  IND;ACT;
+___________________________________
+Word:  इति
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  मत्वा
+Actual: V;V.CVB;
+Predicted:  PRO;
+___________________________________
+Word:  वह्निना
+Actual: N;INS;SG;MASC;
+Predicted:  
+___________________________________
+Word:  संस्कृतः
+Actual: V;SG;PST;PASS;MASC;NOM;V.PTCP;
+Predicted:  NOM;MASC;SG;
+___________________________________
+Word:  सः
+Actual: SG;PRO;MASC;NOM;
+Predicted:  MASC;
+___________________________________
+Word:  अब्रवीत्
+Actual: V;SG;IND;ACT;3;IPFV;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  किम्
+Actual: SG;PRO;NOM;NEUT;
+Predicted:  SG;ACT;ACC;NEUT;
+___________________________________
+Word:  एवम्
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  शील
+Actual: N;
+Predicted:  ACT;
+___________________________________
+Word:  खण्डनम्
+Actual: N;NEUT;NOM;SG;
+Predicted:  SG;ACT;
+___________________________________
+Word:  कृतम्
+Actual: V;SG;PST;PASS;NOM;V.PTCP;NEUT;
+Predicted:  SG;IND;
+___________________________________
+Word:  अयम्
+Actual: SG;PRO;MASC;NOM;
+Predicted:  SG;PRO;
+___________________________________
+Word:  तावत्
+Actual: ADV;
+Predicted:  ACT;3;ADV;
+___________________________________
+Word:  मम
+Actual: SG;1;PRO;GEN;
+Predicted:  IND;ACT;PRO;1;
+___________________________________
+Word:  भृत्यः
+Actual: V;SG;PASS;MASC;NOM;V.PTCP;FUT;
+Predicted:  
+___________________________________
+Word:  ओं
+Actual: INTJ;
+Predicted:  
+___________________________________
+Word:  नमः
+Actual: N;NEUT;NOM;SG;
+Predicted:  
+___________________________________
+Word:  श्री
+Actual: ADJ;
+Predicted:  SG;IND;ACT;
+___________________________________
+Word:  शारदा
+Actual: PROPN;
+Predicted:  N;SG;
+___________________________________
+Word:  गणपति
+Actual: PROPN;
+Predicted:  IND;ACT;FIN;
+___________________________________
+Word:  गुरुभ्यः
+Actual: N;PL;MASC;DAT;
+Predicted:  MASC;
+___________________________________
+Word:  दमनकः
+Actual: MASC;NOM;PROPN;SG;
+Predicted:  NOM;MASC;SG;
+___________________________________
+Word:  तत्
+Actual: SG;ACC;DET;NEUT;
+Predicted:  SG;NEUT;
+___________________________________
+Word:  आकारम्
+Actual: N;SG;MASC;ACC;
+Predicted:  SG;V;IND;ACT;FIN;
+___________________________________
+Word:  परिज्ञाय
+Actual: V;V.CVB;
+Predicted:  
+___________________________________
+Word:  अब्रवीत्
+Actual: V;SG;IND;ACT;3;IPFV;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  स
+Actual: SG;MASC;NOM;DET;
+Predicted:  SG;IND;ACT;ADV;PRO;
+___________________________________
+Word:  अर्थः
+Actual: N;NOM;MASC;SG;
+Predicted:  N;MASC;SG;
+___________________________________
+Word:  पुरुषाणाम्
+Actual: N;GEN;PL;MASC;
+Predicted:  SG;V;FIN;
+___________________________________
+Word:  षड्भिः
+Actual: INS;PL;NUM;
+Predicted:  MASC;
+___________________________________
+Word:  उपायैः
+Actual: N;INS;PL;MASC;
+Predicted:  NOM;MASC;
+___________________________________
+Word:  भवति
+Actual: V;SG;IND;ACT;3;PRS;FIN;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  भिक्षया
+Actual: N;INS;SG;FEM;
+Predicted:  
+___________________________________
+Word:  नृप
+Actual: N;
+Predicted:  
+___________________________________
+Word:  सेवया
+Actual: N;INS;SG;FEM;
+Predicted:  IND;ACT;FIN;
+___________________________________
+Word:  कृषिकर्मणा
+Actual: N;INS;NEUT;SG;
+Predicted:  
+___________________________________
+Word:  विद्या
+Actual: N;
+Predicted:  IND;
+___________________________________
+Word:  उपार्जनेन
+Actual: N;INS;NEUT;SG;
+Predicted:  
+___________________________________
+Word:  व्यवहारेण
+Actual: N;INS;SG;MASC;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  वणिक्
+Actual: N;
+Predicted:  SG;ADV;
+___________________________________
+Word:  कर्मणा
+Actual: N;INS;NEUT;SG;
+Predicted:  
+___________________________________
+Word:  वा
+Actual: CONJ;
+Predicted:  
+___________________________________
+Word:  एवम्
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  बहु
+Actual: ADJ;
+Predicted:  ACT;
+___________________________________
+Word:  विधं
+Actual: N;SG;MASC;ACC;
+Predicted:  SG;
+___________________________________
+Word:  विचिन्त्य
+Actual: V;V.CVB;
+Predicted:  SG;IND;GEN;
+___________________________________
+Word:  देवी
+Actual: N;
+Predicted:  N;SG;
+___________________________________
+Word:  पार्श्वे
+Actual: N;NEUT;SG;ESS;
+Predicted:  SG;V;IND;FIN;
+___________________________________
+Word:  गत्वा
+Actual: V;V.CVB;
+Predicted:  
+___________________________________
+Word:  प्रोवाच
+Actual: V;SG;IND;ACT;3;PFV;FIN;
+Predicted:  
+___________________________________
+Word:  उक्तः
+Actual: V;SG;PST;PASS;MASC;NOM;V.PTCP;
+Predicted:  NOM;SG;V;
+___________________________________
+Word:  भवति
+Actual: SG;IND;ACT;3;PRS;FIN;V;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________
+Word:  यः
+Actual: SG;PRO;MASC;NOM;
+Predicted:  NOM;MASC;
+___________________________________
+Word:  पूर्वम्
+Actual: ADV;
+Predicted:  N;V;
+___________________________________
+Word:  गुणवान्
+Actual: N;NOM;MASC;SG;
+Predicted:  MASC;
+___________________________________
+Word:  संसदि
+Actual: N;SG;FEM;ESS;
+Predicted:  SG;IND;
+___________________________________
+Word:  न
+Actual: NEG;PART;
+Predicted:  
+___________________________________
+Word:  तस्य
+Actual: SG;PRO;MASC;GEN;
+Predicted:  MASC;SG;PRO;GEN;
+___________________________________
+Word:  वाच्यम्
+Actual: SG;PST;ACC;PASS;V.PTCP;N;NEUT;
+Predicted:  SG;
+___________________________________
+Word:  नैर्गुण्यम्
+Actual: N;NEUT;NOM;SG;
+Predicted:  SG;
+___________________________________
+Word:  प्रतिज्ञा
+Actual: N;
+Predicted:  
+___________________________________
+Word:  भङ्ग
+Actual: N;
+Predicted:  IND;ACT;3;FIN;
+___________________________________
+Word:  भीरुणा
+Actual: N;INS;SG;MASC;
+Predicted:  
+___________________________________
+Word:  सर्वेषाम्
+Actual: PRO;PL;GEN;NEUT;
+Predicted:  SG;IND;ACT;PRO;
+___________________________________
+Word:  अपि
+Actual: ADV;
+Predicted:  IND;ADV;
+___________________________________
+Word:  तेषाम्
+Actual: PRO;PL;GEN;NEUT;
+Predicted:  SG;PRO;
+___________________________________
+Word:  वाणिज्येना
+Actual: N;INS;NEUT;SG;
+Predicted:  
+___________________________________
+Word:  अतिरस्कृतः
+Actual: MASC;NOM;SG;ADJ;
+Predicted:  MASC;ADV;
+___________________________________
+Word:  अर्थ
+Actual: N;
+Predicted:  IND;
+___________________________________
+Word:  लाभः
+Actual: N;NEUT;NOM;SG;
+Predicted:  
+___________________________________
+Word:  स्यात्
+Actual: V;SG;ACT;3;FIN;OPT;
+Predicted:  SG;V;IND;ACT;3;FIN;PRS;
+___________________________________

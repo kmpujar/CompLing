@@ -1,0 +1,12 @@
+Results after 1 epochs...
+Word: El  Actual: el  Predicted: el
+___________________________________________
+Word: apoyo  Actual: apoyo  Predicted: copoo
+___________________________________________
+Word: de  Actual: de  Predicted: de
+___________________________________________
+Word: Clinton  Actual: Clinton  Predicted: llnnnnn
+___________________________________________
+Word: se  Actual: él  Predicted: él
+___________________________________________
+Accuracy:  0.5316508442640772

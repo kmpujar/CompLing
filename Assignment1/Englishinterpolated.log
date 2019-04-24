@@ -1,0 +1,2901 @@
+Running Interpolated 5 gram classifier on English
+Total:	24470
+Total UNK words:	  1356
+Total Errors:	4966
+Correct:	18148
+Accuracy:	0.7416428279525951
+Over all precision:  0.8890172421169725
+Over all recall:  0.9308545189830888
+Overall F1-score:  0.9094549791554968
+
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PART
+Precision:  0.6717479674796748
+Recall:  1.0
+F1-score:  0.8036474164133738
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  RL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  0.9703094258629941
+Recall:  0.9040159973337777
+F1-score:  0.9359903381642513
+___________________________________
+Tag  ADJ
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CMPR
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CONJ
+Precision:  0.799416484318016
+Recall:  0.9028006589785832
+F1-score:  0.8479690522243715
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NFIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DEF
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  _
+Precision:  0.9980787704130644
+Recall:  0.9860803543182537
+F1-score:  0.992043284532145
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CMPR
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IMP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IMP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PROPN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  INDF
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADP
+Precision:  0.7453721193804307
+Recall:  0.974320987654321
+F1-score:  0.8446061643835616
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IMP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  0.9406200735680504
+Recall:  0.969139144558744
+F1-score:  0.9546666666666667
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PASS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  RL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NUM
+Precision:  0.9478021978021978
+Recall:  0.905511811023622
+F1-score:  0.9261744966442953
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PROPN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADV
+Precision:  0.773172569706104
+Recall:  0.8327922077922078
+F1-score:  0.8018757327080891
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.MSDR
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PROPN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  0.8955472326258843
+Recall:  0.9944547134935305
+F1-score:  0.9424129625574775
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  INDF
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  N
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CMPR
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PROPN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  N
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  REFL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DEF
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NFIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  N
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PASS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ
+Precision:  0.9192307692307692
+Recall:  0.8578607322325915
+F1-score:  0.8874860750092833
+___________________________________
+Tag  ADJ
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  RL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PASS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CMPR
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.MSDR
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  INTJ
+Precision:  0.8311688311688312
+Recall:  0.9014084507042254
+F1-score:  0.864864864864865
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  N
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+

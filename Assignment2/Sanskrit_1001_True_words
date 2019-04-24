@@ -1,0 +1,192 @@
+Word:  कदाचित्
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अब्रवीत्
+Actual: VSGINDACT3IPFVFIN
+Predicted:  SGVINDACT3FINIPFV
+___________________________________
+Word:  अथ
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अथ
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  कदाचित्
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  पिङ्गलकः
+Actual: MASCNOMPROPNSG
+Predicted:  NOMMASCSGPROPN
+___________________________________
+Word:  नाम
+Actual: NNEUTNOMSG
+Predicted:  NNOMSGNEUT
+___________________________________
+Word:  न
+Actual: NEGPART
+Predicted:  NEGPART
+___________________________________
+Word:  न
+Actual: NEGPART
+Predicted:  NEGPART
+___________________________________
+Word:  च
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  च
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  न
+Actual: NEGPART
+Predicted:  NEGPART
+___________________________________
+Word:  न
+Actual: NEGPART
+Predicted:  NEGPART
+___________________________________
+Word:  च
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अपि
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  न
+Actual: NEGPART
+Predicted:  NEGPART
+___________________________________
+Word:  च
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अस्ति
+Actual: SGINDACT3PRSFINV
+Predicted:  SGVINDACT3FINPRS
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  च
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  इति
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अब्रवीत्
+Actual: VSGINDACT3IPFVFIN
+Predicted:  SGVINDACT3FINIPFV
+___________________________________
+Word:  इति
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अब्रवीत्
+Actual: VSGINDACT3IPFVFIN
+Predicted:  SGVINDACT3FINIPFV
+___________________________________
+Word:  एवम्
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अब्रवीत्
+Actual: VSGINDACT3IPFVFIN
+Predicted:  SGVINDACT3FINIPFV
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अर्थः
+Actual: NNOMMASCSG
+Predicted:  NNOMMASCSG
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  एवम्
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  गत्वा
+Actual: VV.CVB
+Predicted:  VV.CVB
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  यः
+Actual: SGPROMASCNOM
+Predicted:  NOMMASCSGPRO
+___________________________________
+Word:  न
+Actual: NEGPART
+Predicted:  NEGPART
+___________________________________
+Word:  तस्य
+Actual: SGPROMASCGEN
+Predicted:  MASCSGPROGEN
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________
+Word:  अपि
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ।
+Actual: _
+Predicted:  _
+___________________________________

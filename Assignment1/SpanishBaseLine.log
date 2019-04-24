@@ -1,0 +1,1615 @@
+Running base line on Spanish
+Total:  55196
+Total UNK words:  2380
+Correct:  44875
+Over all accuracy:  0.8130118124501775
+Over all precision:  0.8496478339897001
+Over all recall:  0.8130118124501775
+Overall F1-score:  0.83092619338592
+
+Tag  1;IND;FIN;SG;PRS;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3;FEM;SG
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  V;MASC;SG;PST;V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;SG;DET;INDF
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;PRO
+Precision:  0.9473684210526315
+Recall:  0.9473684210526315
+F1-score:  0.9473684210526315
+___________________________________
+Tag  SG;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;PL;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;SG;ADJ
+Precision:  0.029411764705882353
+Recall:  0.0273972602739726
+F1-score:  0.028368794326241134
+___________________________________
+Tag  1;FIN;SG;PRS;IND;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SG;PRS;IND;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SBJV;3;IPFV;V;FIN;SG
+Precision:  0.8125
+Recall:  0.5531914893617021
+F1-score:  0.6582278481012658
+___________________________________
+Tag  SG;DET;DEF;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;SG;ADP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND;FIN;PRS;PL;V;3
+Precision:  0.04
+Recall:  0.03571428571428571
+F1-score:  0.03773584905660378
+___________________________________
+Tag  PL;DET;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;SG;3;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;PRO;PL;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;FEM;N
+Precision:  0.9710982658959537
+Recall:  0.9090909090909091
+F1-score:  0.9390721073225264
+___________________________________
+Tag  MASC;DEF;DET;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;IND;FIN;PRS;PL;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;SG;DEF;DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  INDF;MASC;PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PL;3;DAT;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  INDF;FEM;PL;DET
+Precision:  0.8
+Recall:  0.8
+F1-score:  0.8000000000000002
+___________________________________
+Tag  1;IND;FIN;IPFV;PL;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;PRO;SG
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PRO;3;ACC;FEM;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST;V.PTCP;MASC;V;SG
+Precision:  0.8305555555555556
+Recall:  0.7766233766233767
+F1-score:  0.8026845637583893
+___________________________________
+Tag  PL;MASC;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSS;SG;2;DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;PL;MASC;V.PTCP
+Precision:  0.08333333333333333
+Recall:  0.058823529411764705
+F1-score:  0.06896551724137931
+___________________________________
+Tag  PART
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;PRO;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;FORM;2;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;FIN;SG;IND;V;FUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;SG;3;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;PRO;PL;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DEF;FEM;SG;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PRO;PL;ACC;3;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3
+Precision:  0.9688473520249221
+Recall:  0.9688473520249221
+F1-score:  0.9688473520249221
+___________________________________
+Tag  PSSS;SG;DET;2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND;FIN;FUT;PL;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SG;3;V;COND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;MASC;N
+Precision:  0.009433962264150943
+Recall:  0.00909090909090909
+F1-score:  0.009259259259259259
+___________________________________
+Tag  PL;N;FEM
+Precision:  0.0297029702970297
+Recall:  0.02654867256637168
+F1-score:  0.028037383177570093
+___________________________________
+Tag  PL;DET;INDF;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;PRO;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;MASC;SG
+Precision:  0.49523809523809526
+Recall:  0.49523809523809526
+F1-score:  0.49523809523809526
+___________________________________
+Tag  1;V;FIN;PL;COND
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  SG;MASC;ADV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSP;1;MASC;SG;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  FIN;SG;PRS;SBJV;V;3
+Precision:  0.14285714285714285
+Recall:  0.1
+F1-score:  0.11764705882352941
+___________________________________
+Tag  PL;MASC;N
+Precision:  0.955153422501967
+Recall:  0.8913362701908958
+F1-score:  0.9221420432966199
+___________________________________
+Tag  PL;3;PST;V;FIN;IND
+Precision:  0.9461538461538461
+Recall:  0.8145695364238411
+F1-score:  0.8754448398576512
+___________________________________
+Tag  PRO;3;DAT;SG
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  ADJ;SG;MASC
+Precision:  0.03389830508474576
+Recall:  0.03125
+F1-score:  0.032520325203252036
+___________________________________
+Tag  V;FIN;SG;COND;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;PRO;MASC
+Precision:  0.09302325581395349
+Recall:  0.09302325581395349
+F1-score:  0.09302325581395347
+___________________________________
+Tag  CONJ
+Precision:  0.7042151162790697
+Recall:  0.7039593171086088
+F1-score:  0.7040871934604905
+___________________________________
+Tag  1;V;FIN;IND;FUT;SG
+Precision:  1.0
+Recall:  0.5
+F1-score:  0.6666666666666666
+___________________________________
+Tag  V.PTCP;SG;PST;V;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NFIN;V
+Precision:  0.01639344262295082
+Recall:  0.015384615384615385
+F1-score:  0.015873015873015872
+___________________________________
+Tag  MASC;SG;PST;V;V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SBJV;1;V;FIN;PRS;PL
+Precision:  1.0
+Recall:  0.8571428571428571
+F1-score:  0.923076923076923
+___________________________________
+Tag  FEM;ACC;SG;3;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;IPFV;1;V;FIN;IND
+Precision:  0.6666666666666666
+Recall:  0.4
+F1-score:  0.5
+___________________________________
+Tag  DET;DEF;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SG;2;IMP;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND;FIN;IPFV;PL;V;3
+Precision:  0.5
+Recall:  0.25
+F1-score:  0.3333333333333333
+___________________________________
+Tag  MASC;ADV;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;V;FIN;PRS;IND;SG
+Precision:  0.9104477611940298
+Recall:  0.8026315789473685
+F1-score:  0.8531468531468532
+___________________________________
+Tag  PRO;NOM;1;SG
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PROPN
+Precision:  0.9805825242718447
+Recall:  0.8341362697866483
+F1-score:  0.9014503532911864
+___________________________________
+Tag  DET;PL;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3;ACC;FEM;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;ACC;SG;3;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SBJV;3;V;FIN;PRS;PL
+Precision:  0.8823529411764706
+Recall:  0.5769230769230769
+F1-score:  0.6976744186046512
+___________________________________
+Tag  FIN;SG;PST;IND;V;3
+Precision:  0.018691588785046728
+Recall:  0.017857142857142856
+F1-score:  0.0182648401826484
+___________________________________
+Tag  3;MASC;PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  MASC;ACC;SG;PRO;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;PL;PRS;IND;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSP;PRO;1;FEM;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC;SG;3;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;2;FORM;SG
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  FIN;SBJV;PL;PRS;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;PL;MASC
+Precision:  0.03333333333333333
+Recall:  0.027777777777777776
+F1-score:  0.0303030303030303
+___________________________________
+Tag  FIN;IPFV;SG;IND;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DEF;SG;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PRO;1;SG
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  SG;3;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DEF;MASC;PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  V;1;FIN;SG;COND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  _
+Precision:  0.9996982498491249
+Recall:  0.9965408332080012
+F1-score:  0.9981170445130677
+___________________________________
+Tag  PL;ADJ;FEM;V.PTCP
+Precision:  0.8157894736842105
+Recall:  0.5081967213114754
+F1-score:  0.6262626262626263
+___________________________________
+Tag  SG;MASC;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;PRO;1
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  3;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;DET;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;DEF;DET;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;PST;1;V;FIN;IND
+Precision:  1.0
+Recall:  0.2
+F1-score:  0.33333333333333337
+___________________________________
+Tag  FIN;PL;IND;V;3;FUT
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;SG;DET;DEF
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3;PST;V;FIN;IND;SG
+Precision:  0.9808481532147743
+Recall:  0.9287564766839378
+F1-score:  0.9540918163672654
+___________________________________
+Tag  PRO;FEM;SG
+Precision:  0.3157894736842105
+Recall:  0.3076923076923077
+F1-score:  0.3116883116883117
+___________________________________
+Tag  3;V;FIN;PL;IMP
+Precision:  0.2
+Recall:  0.16666666666666666
+F1-score:  0.1818181818181818
+___________________________________
+Tag  SG;NUM;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;SG;PRO;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;NUM;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;FIN;2;IMP;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;FIN;COND;PL;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;N
+Precision:  1.0
+Recall:  0.8333333333333334
+F1-score:  0.9090909090909091
+___________________________________
+Tag  MASC;ACC;PRO;PL;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;IND;FIN;SG;PRS;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;V.PTCP;SG;PST;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;MASC;ADJ
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;2;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;SG;PRO;NOM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;FEM;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3;ACC;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3;DET;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST;V;FIN;2;IND;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADP
+Precision:  0.9991018732358224
+Recall:  0.9991018732358224
+F1-score:  0.9991018732358224
+___________________________________
+Tag  PRO;PL;3;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3;V;FIN;IND;FUT;SG
+Precision:  0.9703703703703703
+Recall:  0.8733333333333333
+F1-score:  0.9192982456140351
+___________________________________
+Tag  FEM;SG;DEF;DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET;MASC;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3;MASC;SG;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  FIN;IPFV;SBJV;PL;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST;V.PTCP;FEM;V;SG
+Precision:  0.45454545454545453
+Recall:  0.29411764705882354
+F1-score:  0.35714285714285715
+___________________________________
+Tag  PL;ADJ;MASC;V.PTCP
+Precision:  0.7230769230769231
+Recall:  0.5222222222222223
+F1-score:  0.6064516129032258
+___________________________________
+Tag  SG;DAT;PRO;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  INDF;FEM;SG;DET
+Precision:  0.9938271604938271
+Recall:  0.9938271604938271
+F1-score:  0.9938271604938271
+___________________________________
+Tag  FIN;IPFV;PL;IND;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;SG;PRO;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SBJV;IPFV;1;V;FIN;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;FIN;SBJV;PL;PRS;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;1;FIN;SG;PRS;SBJV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3;PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  3;COND;V;FIN;SG
+Precision:  0.9615384615384616
+Recall:  0.7352941176470589
+F1-score:  0.8333333333333333
+___________________________________
+Tag  PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  FEM;N;SG
+Precision:  0.9555261999119331
+Recall:  0.9183241641980533
+F1-score:  0.9365558912386707
+___________________________________
+Tag  IMP;FIN;PL;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;DET;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;ADJ;FEM
+Precision:  0.935064935064935
+Recall:  0.7783783783783784
+F1-score:  0.8495575221238939
+___________________________________
+Tag  DEF;FEM;PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  SBJV;3;V;FIN;PRS;SG
+Precision:  0.8631578947368421
+Recall:  0.7256637168141593
+F1-score:  0.7884615384615384
+___________________________________
+Tag  PRO;3;MASC;PL
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  SG;DET;INDF;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;1;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;DET
+Precision:  0.84
+Recall:  0.84
+F1-score:  0.8399999999999999
+___________________________________
+Tag  SG;3;DAT;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSP;1;FEM;PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  IND;FIN;SG;PST;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SG;V;3;COND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;ADJ;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;FIN;PL;IND;FUT;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ACC;SG;PRO;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;FEM;NUM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;FEM;DET
+Precision:  0.828125
+Recall:  0.828125
+F1-score:  0.828125
+___________________________________
+Tag  1;FIN;IPFV;PL;IND;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND;FIN;SG;PRS;V;3
+Precision:  0.02127659574468085
+Recall:  0.0196078431372549
+F1-score:  0.02040816326530612
+___________________________________
+Tag  SG;DET;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;FIN;SG;PRS;SBJV;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;SG;FEM;V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;SG;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3;DAT;PL
+Precision:  0.9642857142857143
+Recall:  0.9642857142857143
+F1-score:  0.9642857142857143
+___________________________________
+Tag  FIN;PL;PRS;IND;V;3
+Precision:  0.04
+Recall:  0.034482758620689655
+F1-score:  0.03703703703703704
+___________________________________
+Tag  NUM
+Precision:  0.8944223107569721
+Recall:  0.7397034596375618
+F1-score:  0.8097385031559964
+___________________________________
+Tag  PSSP;1;FEM;SG;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  SG;FEM;N
+Precision:  0.016025641025641024
+Recall:  0.015384615384615385
+F1-score:  0.015698587127158558
+___________________________________
+Tag  ADV
+Precision:  0.9560835133189345
+Recall:  0.9445234708392604
+F1-score:  0.950268336314848
+___________________________________
+Tag  V;FIN;SG;IPFV;SBJV;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;NUM;MASC
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  V;IND;1;FIN;PRS;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;3;IPFV;V;FIN;IND
+Precision:  0.8936170212765957
+Recall:  0.6774193548387096
+F1-score:  0.7706422018348622
+___________________________________
+Tag  PL;ADJ;MASC
+Precision:  0.693069306930693
+Recall:  0.6086956521739131
+F1-score:  0.6481481481481481
+___________________________________
+Tag  V.MSDR;V
+Precision:  0.961038961038961
+Recall:  0.6666666666666666
+F1-score:  0.7872340425531914
+___________________________________
+Tag  V;IND;FIN;SG;IPFV;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IMP;FIN;SG;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSS;PRO;1;FEM;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SG;PRS;IND;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;PRO;PL;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;SG;N
+Precision:  0.018691588785046728
+Recall:  0.01834862385321101
+F1-score:  0.018518518518518514
+___________________________________
+Tag  NUM;MASC;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;IPFV;SBJV;SG;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;IPFV;SBJV;V;3;PL
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PRO
+Precision:  0.8152173913043478
+Recall:  0.8152173913043478
+F1-score:  0.8152173913043479
+___________________________________
+Tag  SG;V.PTCP;ADJ;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PST;1;V;FIN;IND;SG
+Precision:  1.0
+Recall:  0.5555555555555556
+F1-score:  0.7142857142857143
+___________________________________
+Tag  PST;V.PTCP;FEM;V;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;MASC;NUM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;IND;FIN;PST;PL;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSP;1;FEM;DET;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADP;SG;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SBJV;SG;PRS;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;SG;MASC;V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  N
+Precision:  0.5903465346534653
+Recall:  0.5578947368421052
+F1-score:  0.5736620565243535
+___________________________________
+Tag  ADJ;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;1;MASC;PL
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  SG;ADJ
+Precision:  0.028985507246376812
+Recall:  0.025974025974025976
+F1-score:  0.027397260273972608
+___________________________________
+Tag  V.PTCP;ADJ;FEM;SG
+Precision:  0.8285714285714286
+Recall:  0.696
+F1-score:  0.7565217391304347
+___________________________________
+Tag  SG;ADP;MASC
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  MASC;SG;DET
+Precision:  0.7608695652173914
+Recall:  0.7608695652173914
+F1-score:  0.7608695652173914
+___________________________________
+Tag  MASC;PL;N
+Precision:  0.05161290322580645
+Recall:  0.045714285714285714
+F1-score:  0.048484848484848485
+___________________________________
+Tag  PST;V.PTCP;MASC;V;PL
+Precision:  0.2777777777777778
+Recall:  0.2
+F1-score:  0.23255813953488372
+___________________________________
+Tag  MASC;SG;V.PTCP;ADJ
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;V.PTCP;ADJ;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;ACC;SG;PRO;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V.PTCP;ADJ;MASC;SG
+Precision:  0.6630434782608695
+Recall:  0.5596330275229358
+F1-score:  0.6069651741293531
+___________________________________
+Tag  PL;DET;DEF;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;MASC;DET
+Precision:  0.8432835820895522
+Recall:  0.8308823529411765
+F1-score:  0.8370370370370371
+___________________________________
+Tag  PRO;3;FEM;PL
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  1;FIN;SG;PST;IND;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSP;1;PL;FEM;DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET;PL;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;PL;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;PL;FEM;V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;PL;IND;3;FUT;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;1;V;FIN;IND;FUT
+Precision:  1.0
+Recall:  0.23076923076923078
+F1-score:  0.375
+___________________________________
+Tag  SG;1;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;SG
+Precision:  0.9385474860335196
+Recall:  0.8784313725490196
+F1-score:  0.9074949358541526
+___________________________________
+Tag  PRO;3;ACC;MASC;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;1;V;FIN;PRS;IND
+Precision:  0.9777777777777777
+Recall:  0.8627450980392157
+F1-score:  0.9166666666666665
+___________________________________
+Tag  PL;FEM;DET;DEF
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;PL;3;V;COND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SG;PST;IND;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;MASC;SG
+Precision:  0.8178294573643411
+Recall:  0.7390542907180385
+F1-score:  0.7764489420423183
+___________________________________
+Tag  SG;N
+Precision:  0.044444444444444446
+Recall:  0.043478260869565216
+F1-score:  0.04395604395604395
+___________________________________
+Tag  V;FIN;PRS;IND;SG;2
+Precision:  1.0
+Recall:  0.3333333333333333
+F1-score:  0.5
+___________________________________
+Tag  PL;FEM;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSS;1;SG;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  1;V;FIN;PL;IMP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SG;IND;3;FUT;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;NUM;FEM
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  NUM;SG;FEM
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PL;PRO;2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  IND;FIN;PST;PL;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;3;V;FIN;IND;FUT
+Precision:  0.8809523809523809
+Recall:  0.6271186440677966
+F1-score:  0.7326732673267327
+___________________________________
+Tag  INDF;MASC;SG;DET
+Precision:  0.997716894977169
+Recall:  0.997716894977169
+F1-score:  0.997716894977169
+___________________________________
+Tag  3;V;FIN;PRS;IND;SG
+Precision:  0.9705882352941176
+Recall:  0.9353410097431355
+F1-score:  0.952638700947226
+___________________________________
+Tag  FIN;PL;V;3;COND
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;FIN;SG;IND;FUT;V
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  MASC;SG;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;IND;FIN;IPFV;PL;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3;IPFV;V;FIN;IND;SG
+Precision:  0.9685534591194969
+Recall:  0.9058823529411765
+F1-score:  0.9361702127659574
+___________________________________
+Tag  PL;PRO;FEM
+Precision:  0.05555555555555555
+Recall:  0.05
+F1-score:  0.052631578947368425
+___________________________________
+Tag  MASC;INDF;DET;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;NFIN
+Precision:  0.9722772277227723
+Recall:  0.9059040590405905
+F1-score:  0.9379178605539636
+___________________________________
+Tag  DET;MASC;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSS;1;PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  DEF;MASC;DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SG;ADJ;FEM
+Precision:  0.041666666666666664
+Recall:  0.03278688524590164
+F1-score:  0.03669724770642202
+___________________________________
+Tag  COND;1;V;FIN;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  N;SG
+Precision:  0.8011695906432749
+Recall:  0.7527472527472527
+F1-score:  0.7762039660056658
+___________________________________
+Tag  SG;N;FEM
+Precision:  0.031141868512110725
+Recall:  0.029411764705882353
+F1-score:  0.030252100840336135
+___________________________________
+Tag  MASC;SG;ADV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;FIN;2;IND;FUT;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PSSP;1;MASC;PL;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PRO;SG;2
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  PRO;3;ACC;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;IND;1;FIN;FUT;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3;ACC;MASC;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SBJV;3;IPFV;V;FIN;PL
+Precision:  0.7
+Recall:  0.30434782608695654
+F1-score:  0.42424242424242425
+___________________________________
+Tag  PRO;3;ACC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;IND;1;FIN;SG;PRS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;FEM;V.PTCP;PST;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;FIN;IPFV;SBJV;SG;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;FIN;IPFV;SG;IND;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;3;V;FIN;PRS;IND
+Precision:  0.9753424657534246
+Recall:  0.9081632653061225
+F1-score:  0.940554821664465
+___________________________________
+Tag  FIN;PRS;SBJV;V;3;PL
+Precision:  0.3333333333333333
+Recall:  0.25
+F1-score:  0.28571428571428575
+___________________________________
+Tag  ADJ;SG;FEM
+Precision:  0.07272727272727272
+Recall:  0.05970149253731343
+F1-score:  0.06557377049180327
+___________________________________
+Tag  IPFV;1;V;FIN;IND;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3;V;FIN;IMP;SG
+Precision:  0.5
+Recall:  0.25
+F1-score:  0.3333333333333333
+___________________________________
+Tag  PL;MASC;V.PTCP;ADJ
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  2;SG;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3;MASC;SG
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  IND;FIN;SG;IPFV;V;3
+Precision:  0.058823529411764705
+Recall:  0.043478260869565216
+F1-score:  0.049999999999999996
+___________________________________
+Tag  FIN;SBJV;PL;PRS;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FEM;SG;DET
+Precision:  0.6894736842105263
+Recall:  0.6858638743455497
+F1-score:  0.6876640419947507
+___________________________________
+Tag  V;IND;FIN;SG;FUT;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  N;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;IPFV;SG;IND;V;3
+Precision:  0.08333333333333333
+Recall:  0.05555555555555555
+F1-score:  0.06666666666666667
+___________________________________
+Tag  FEM;SG;PST;V;V.PTCP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;PL;PST;IND;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1;FIN;PL;PRS;IND;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SBJV;1;V;FIN;PRS;SG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3;SG;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  V;IND;FIN;SG;PST;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ;FEM;SG
+Precision:  0.905
+Recall:  0.8098434004474273
+F1-score:  0.8547815820543093
+___________________________________
+Tag  NEG;ADV
+Precision:  0.9971910112359551
+Recall:  0.9971910112359551
+F1-score:  0.9971910112359551
+___________________________________
+Tag  DEF;MASC;SG;DET
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+Tag  IND;FIN;SG;FUT;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;FEM;ACC;3;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;NUM
+Precision:  0.9886792452830189
+Recall:  0.9886792452830189
+F1-score:  0.9886792452830189
+___________________________________
+Tag  FEM;N
+Precision:  1.0
+Recall:  0.7692307692307693
+F1-score:  0.8695652173913044
+___________________________________
+Tag  PL;ADJ
+Precision:  0.8571428571428571
+Recall:  0.7548387096774194
+F1-score:  0.8027444253859348
+___________________________________
+Tag  FIN;SG;COND;V;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADJ
+Precision:  0.6896551724137931
+Recall:  0.6593406593406593
+F1-score:  0.6741573033707866
+___________________________________
+Tag  1;FIN;SG;PRS;SBJV;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;SG
+Precision:  0.9814814814814815
+Recall:  0.9814814814814815
+F1-score:  0.9814814814814815
+___________________________________
+Tag  FIN;PL;PST;IND;V;3
+Precision:  0.1
+Recall:  0.08333333333333333
+F1-score:  0.0909090909090909
+___________________________________
+Tag  1;PL;PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  MASC;SG;NUM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NUM;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3;PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;V.MSDR
+Precision:  0.09090909090909091
+Recall:  0.058823529411764705
+F1-score:  0.07142857142857142
+___________________________________
+Tag  FIN;SBJV;SG;PRS;V;3
+Precision:  0.3333333333333333
+Recall:  0.2
+F1-score:  0.25
+___________________________________
+Tag  3;V;FIN;PL;COND
+Precision:  0.8888888888888888
+Recall:  0.6666666666666666
+F1-score:  0.761904761904762
+___________________________________
+Tag  DET;SG;FEM
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  FIN;SG;IND;V;3;FUT
+Precision:  0.14285714285714285
+Recall:  0.125
+F1-score:  0.13333333333333333
+___________________________________
+Tag  INTJ
+Precision:  0.875
+Recall:  0.5833333333333334
+F1-score:  0.7000000000000001
+___________________________________
+Tag  MASC;N;SG
+Precision:  0.9236393176279447
+Recall:  0.8790104367993815
+F1-score:  0.900772430184195
+___________________________________
+Tag  FIN;IPFV;SBJV;SG;3;V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  SBJV;V;FIN;PRS;SG;2
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;N
+Precision:  0.9055555555555556
+Recall:  0.8534031413612565
+F1-score:  0.8787061994609163
+___________________________________
+Tag  MASC;INDF;SG;DET
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V;IND;FIN;PRS;PL;3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL;V.PTCP;PST;V;MASC
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO;3;SG
+Precision:  1.0
+Recall:  1.0
+F1-score:  1.0
+___________________________________
+

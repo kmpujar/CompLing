@@ -1,0 +1,280 @@
+10 context sentences for: was
+It was an ingrown toenail .
+The name was derived from the founder 's name Dr. Michael Cowpland .
+Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky
+The decision was made by ISO upper management with one goal in mind : to keep the lights on .
+Fair give and take on both sides until we agreed on a deal that was within my parameters and was fair to both sides .
+their pizza was a little salty for me , but it s still good .
+Since the article was specifically about " death metal " I guess the author missed this little tidbit or we just have waaaaaaaaaaaaay different definitions of morality :
+Not once did I feel listened to like they actually cared about what I wanted , all they were interested in was me signing a contract right then and there .
+Wine was excellent .
+For weeks , reporters scoured Alabama in search of pilots or anyone who might have remembered seeing Mr. Bush at the time he was serving in the National Guard there .
+____________________________________________10 context sentences for: it
+I sent a phone to Mobile Phone Exchange and it failed a test due to lost or stolen what should I do ?
+You should give her a try - it 's worth every penny to know that you pet is in GREAT hands with Wunderbar pet sitting !!!!
+No problem , sounded like it 's done every day .
+It 's so much fun over there , and I 'm positive that you 'll love it ! :)
+Does anybody use it for anything else ?
+their pizza was a little salty for me , but it s still good .
+It is the hospitality from Tom and staff , that makes it feel like a 5 star hotel in the middle of the beach .
+( in the visa itself , it does not mention anything about which school I m suppose to attend , and problem is , the embassy here in DC are not too nice and would never answer ANY questions .... ) any advice please ?
+I swear that he might have twisted it off had I understood what it would mean to Garcia .
+The US Army Corps of Engineers says it could take a month to clear the flood waters , and the government 's disaster relief agency has urged evacuees not to try to get back to their homes .
+____________________________________________10 context sentences for: do
+I sent a phone to Mobile Phone Exchange and it failed a test due to lost or stolen what should I do ?
+On the other hand though , if I 'm a client he should really of called back by now because you do n't leave a customer hanging .
+( Since the Declaration is written as coming from “ religious leaders , ” people who do n’t consider themselves “ religious leaders ” can sign as “ Supporters of the North Carolina Religious Coalition for Marriage Equality . ” )
+Now Iran wants to turn the tables and is inviting cartoonists to do their best by depicting the Holocaust .
+I do n't want to have to deal with those deal - a - day websites like Groupon .
+They may look young but do n't let that fool you , as their knowledge of music far surpassed what we expected .
+for the past few days she has been shivering and wo nt eat but she could walk now her hid legs are not working but she is back to her self .. what should i do .?
+What do you like to do ?
+So was Darren there last night to meet her or do you just think they 'd make a good match ?
+They are invoicing for this and I do n't have an invoice for it .
+____________________________________________10 context sentences for: 's
+There 's obviously a reason for that ( lack of employment , low incomes , etc . )
+You should give her a try - it 's worth every penny to know that you pet is in GREAT hands with Wunderbar pet sitting !!!!
+The attached documents include the GA II Settlement proposal , an Attachment ( a copy of PG&E 's proposed Gas Rule 27 ) , and a set of supporting workpapers .
+No problem , sounded like it 's done every day .
+It 's so much fun over there , and I 'm positive that you 'll love it ! :)
+Slice Pizza at former Britt 's Location
+The name was derived from the founder 's name Dr. Michael Cowpland .
+Shojai told the opening ceremony of the month - long fair in Tehran 's Palestine Contemporary Art Museum .
+" There 's no tracking mechanism in place " ?!?!?
+By year 's end , you may find yourself seriously considering a major change - all for the best .
+____________________________________________10 context sentences for: that
+There 's obviously a reason for that ( lack of employment , low incomes , etc . )
+You should give her a try - it 's worth every penny to know that you pet is in GREAT hands with Wunderbar pet sitting !!!!
+The wires have been humming since before the New Year with reports that the Bush administration is planning an attack on Iran .
+If there is blood in the urine , or the cat seems to be in pain , then that is also a good indicator .
+NiMo released an additional RFP for peaking supplies for this winter , I believe Phil should have or be getting that RFP .
+It 's so much fun over there , and I 'm positive that you 'll love it ! :)
+" If the Canadian Immigration Visa Officer believes that the point total does not accurately reflect your ability to become economically established in Canada , the Canadian Immigration Visa Officer may use his or her positive discretion ( referred to as substituted evaluation ) and approve your application even though you score less than 67 points . "
+So hear we are , two weeks later , after that dazzling PR display two weeks ago by Powell and Annan , and the situation on the ground in Darfur appears basically unchanged .
+David is the most helpful and creative photographer that I have used .
+when the door opens , he will get that the one room is hers , and he will be OK with that .
+____________________________________________WORD:  it
+Occurance:  I sent a phone to Mobile Phone Exchange and it failed a test due to lost or stolen what should I do ?
+Proposed: {'PRO', 'NOM', '3', 'SG', 'NEUT'}
+Actual: ['SG', 'PRO', 'NOM', 'NEUT', '3']
+___________________________________________WORD:  do
+Occurance:  I sent a phone to Mobile Phone Exchange and it failed a test due to lost or stolen what should I do ?
+Proposed: {'FIN', 'PRS', 'V', 'IND'}
+Actual: ['NFIN', 'V']
+___________________________________________WORD:  do
+Occurance:  On the other hand though , if I 'm a client he should really of called back by now because you do n't leave a customer hanging .
+Proposed: {'FIN', 'PRS', 'V', 'IND'}
+Actual: ['PRS', 'IND', 'V', 'FIN']
+___________________________________________WORD:  was
+Occurance:  It was an ingrown toenail .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  's
+Occurance:  There 's obviously a reason for that ( lack of employment , low incomes , etc . )
+Proposed: {'FIN', 'V', 'IND', '3', 'SG'}
+Actual: ['IND', '3', 'V', 'FIN', 'SG', 'PRS']
+___________________________________________WORD:  that
+Occurance:  There 's obviously a reason for that ( lack of employment , low incomes , etc . )
+Proposed: {'CONJ'}
+Actual: ['SG', 'PRO']
+___________________________________________WORD:  it
+Occurance:  You should give her a try - it 's worth every penny to know that you pet is in GREAT hands with Wunderbar pet sitting !!!!
+Proposed: {'PRO', 'NOM', '3', 'SG', 'NEUT'}
+Actual: ['NOM', '3', 'SG', 'PRO', 'NEUT']
+___________________________________________WORD:  's
+Occurance:  You should give her a try - it 's worth every penny to know that you pet is in GREAT hands with Wunderbar pet sitting !!!!
+Proposed: {'FIN', 'V', 'IND', '3', 'SG'}
+Actual: ['IND', '3', 'FIN', 'SG', 'V', 'PRS']
+___________________________________________WORD:  that
+Occurance:  You should give her a try - it 's worth every penny to know that you pet is in GREAT hands with Wunderbar pet sitting !!!!
+Proposed: {'CONJ'}
+Actual: ['CONJ']
+___________________________________________WORD:  that
+Occurance:  The wires have been humming since before the New Year with reports that the Bush administration is planning an attack on Iran .
+Proposed: {'CONJ'}
+Actual: ['CONJ']
+___________________________________________WORD:  's
+Occurance:  The attached documents include the GA II Settlement proposal , an Attachment ( a copy of PG&E 's proposed Gas Rule 27 ) , and a set of supporting workpapers .
+Proposed: set()
+Actual: ['PART']
+___________________________________________WORD:  that
+Occurance:  If there is blood in the urine , or the cat seems to be in pain , then that is also a good indicator .
+Proposed: set()
+Actual: ['SG', 'PRO']
+___________________________________________WORD:  that
+Occurance:  NiMo released an additional RFP for peaking supplies for this winter , I believe Phil should have or be getting that RFP .
+Proposed: {'CONJ'}
+Actual: ['DET', 'SG']
+___________________________________________WORD:  it
+Occurance:  No problem , sounded like it 's done every day .
+Proposed: {'PRO', 'NOM', '3', 'SG', 'NEUT'}
+Actual: ['NOM', '3', 'SG', 'PRO', 'NEUT']
+___________________________________________WORD:  's
+Occurance:  No problem , sounded like it 's done every day .
+Proposed: {'FIN', 'SG', '3', 'IND'}
+Actual: ['IND', '3', 'FIN', 'SG', 'V', 'PRS']
+___________________________________________WORD:  's
+Occurance:  It 's so much fun over there , and I 'm positive that you 'll love it ! :)
+Proposed: {'FIN', 'V', 'IND', 'PRS', '3', 'SG'}
+Actual: ['IND', '3', 'FIN', 'SG', 'V', 'PRS']
+___________________________________________WORD:  that
+Occurance:  It 's so much fun over there , and I 'm positive that you 'll love it ! :)
+Proposed: {'CONJ'}
+Actual: ['CONJ']
+___________________________________________WORD:  it
+Occurance:  It 's so much fun over there , and I 'm positive that you 'll love it ! :)
+Proposed: {'NEUT', 'PRO', 'SG', '3'}
+Actual: ['3', 'SG', 'ACC', 'PRO', 'NEUT']
+___________________________________________WORD:  's
+Occurance:  Slice Pizza at former Britt 's Location
+Proposed: set()
+Actual: ['PART']
+___________________________________________WORD:  was
+Occurance:  The name was derived from the founder 's name Dr. Michael Cowpland .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  's
+Occurance:  The name was derived from the founder 's name Dr. Michael Cowpland .
+Proposed: set()
+Actual: ['PART']
+___________________________________________WORD:  's
+Occurance:  Shojai told the opening ceremony of the month - long fair in Tehran 's Palestine Contemporary Art Museum .
+Proposed: set()
+Actual: ['PART']
+___________________________________________WORD:  was
+Occurance:  Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['FIN', 'V', 'IND', 'SG', 'PST', '3']
+___________________________________________WORD:  was
+Occurance:  Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['FIN', 'V', 'IND', 'SG', 'PST', '3']
+___________________________________________WORD:  was
+Occurance:  Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['FIN', 'V', 'IND', 'SG', 'PST', '3']
+___________________________________________WORD:  's
+Occurance:  " There 's no tracking mechanism in place " ?!?!?
+Proposed: {'FIN', 'SG', '3', 'IND'}
+Actual: ['IND', '3', 'V', 'FIN', 'SG', 'PRS']
+___________________________________________WORD:  's
+Occurance:  By year 's end , you may find yourself seriously considering a major change - all for the best .
+Proposed: set()
+Actual: ['PART']
+___________________________________________WORD:  that
+Occurance:  " If the Canadian Immigration Visa Officer believes that the point total does not accurately reflect your ability to become economically established in Canada , the Canadian Immigration Visa Officer may use his or her positive discretion ( referred to as substituted evaluation ) and approve your application even though you score less than 67 points . "
+Proposed: {'CONJ'}
+Actual: ['CONJ']
+___________________________________________WORD:  do
+Occurance:  ( Since the Declaration is written as coming from “ religious leaders , ” people who do n’t consider themselves “ religious leaders ” can sign as “ Supporters of the North Carolina Religious Coalition for Marriage Equality . ” )
+Proposed: {'FIN', 'PRS', 'V', 'IND'}
+Actual: ['PRS', 'IND', 'V', 'FIN']
+___________________________________________WORD:  that
+Occurance:  So hear we are , two weeks later , after that dazzling PR display two weeks ago by Powell and Annan , and the situation on the ground in Darfur appears basically unchanged .
+Proposed: set()
+Actual: ['DET', 'SG']
+___________________________________________WORD:  that
+Occurance:  David is the most helpful and creative photographer that I have used .
+Proposed: set()
+Actual: ['PRO']
+___________________________________________WORD:  do
+Occurance:  Now Iran wants to turn the tables and is inviting cartoonists to do their best by depicting the Holocaust .
+Proposed: {'NFIN', 'V'}
+Actual: ['NFIN', 'V']
+___________________________________________WORD:  that
+Occurance:  when the door opens , he will get that the one room is hers , and he will be OK with that .
+Proposed: {'CONJ'}
+Actual: ['CONJ']
+___________________________________________WORD:  that
+Occurance:  when the door opens , he will get that the one room is hers , and he will be OK with that .
+Proposed: {'CONJ'}
+Actual: ['SG', 'PRO']
+___________________________________________WORD:  it
+Occurance:  Does anybody use it for anything else ?
+Proposed: {'NEUT', 'PRO', 'SG', '3'}
+Actual: ['PRO', 'NEUT', 'SG', 'ACC', '3']
+___________________________________________WORD:  was
+Occurance:  The decision was made by ISO upper management with one goal in mind : to keep the lights on .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  was
+Occurance:  Fair give and take on both sides until we agreed on a deal that was within my parameters and was fair to both sides .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  was
+Occurance:  Fair give and take on both sides until we agreed on a deal that was within my parameters and was fair to both sides .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  was
+Occurance:  their pizza was a little salty for me , but it s still good .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  it
+Occurance:  their pizza was a little salty for me , but it s still good .
+Proposed: {'PRO', 'NOM', '3', 'SG', 'NEUT'}
+Actual: ['NOM', '3', 'SG', 'PRO', 'NEUT']
+___________________________________________WORD:  it
+Occurance:  It is the hospitality from Tom and staff , that makes it feel like a 5 star hotel in the middle of the beach .
+Proposed: {'PRO', 'NOM', '3', 'SG', 'NEUT'}
+Actual: ['3', 'SG', 'ACC', 'PRO', 'NEUT']
+___________________________________________WORD:  it
+Occurance:  ( in the visa itself , it does not mention anything about which school I m suppose to attend , and problem is , the embassy here in DC are not too nice and would never answer ANY questions .... ) any advice please ?
+Proposed: {'PRO', 'NOM', '3', 'SG', 'NEUT'}
+Actual: ['NOM', '3', 'SG', 'PRO', 'NEUT']
+___________________________________________WORD:  do
+Occurance:  I do n't want to have to deal with those deal - a - day websites like Groupon .
+Proposed: {'FIN', 'PRS', 'V', 'IND'}
+Actual: ['IND', 'PRS', 'FIN', 'V']
+___________________________________________WORD:  do
+Occurance:  They may look young but do n't let that fool you , as their knowledge of music far surpassed what we expected .
+Proposed: {'FIN', 'V', 'IND'}
+Actual: ['NFIN', 'V']
+___________________________________________WORD:  was
+Occurance:  Since the article was specifically about " death metal " I guess the author missed this little tidbit or we just have waaaaaaaaaaaaay different definitions of morality :
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  was
+Occurance:  Not once did I feel listened to like they actually cared about what I wanted , all they were interested in was me signing a contract right then and there .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  do
+Occurance:  for the past few days she has been shivering and wo nt eat but she could walk now her hid legs are not working but she is back to her self .. what should i do .?
+Proposed: {'FIN', 'PRS', 'V', 'IND'}
+Actual: ['V', 'NFIN']
+___________________________________________WORD:  it
+Occurance:  I swear that he might have twisted it off had I understood what it would mean to Garcia .
+Proposed: {'ACC', 'PRO', '3', 'SG', 'NEUT'}
+Actual: ['3', 'SG', 'ACC', 'PRO', 'NEUT']
+___________________________________________WORD:  it
+Occurance:  I swear that he might have twisted it off had I understood what it would mean to Garcia .
+Proposed: {'PRO', 'NOM', '3', 'SG', 'NEUT'}
+Actual: ['NOM', '3', 'SG', 'PRO', 'NEUT']
+___________________________________________WORD:  it
+Occurance:  The US Army Corps of Engineers says it could take a month to clear the flood waters , and the government 's disaster relief agency has urged evacuees not to try to get back to their homes .
+Proposed: {'NEUT', 'PRO', 'SG', '3'}
+Actual: ['NOM', '3', 'SG', 'PRO', 'NEUT']
+___________________________________________WORD:  was
+Occurance:  Wine was excellent .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  was
+Occurance:  For weeks , reporters scoured Alabama in search of pilots or anyone who might have remembered seeing Mr. Bush at the time he was serving in the National Guard there .
+Proposed: {'FIN', 'V', 'IND', '3', 'SG', 'PST'}
+Actual: ['IND', '3', 'FIN', 'SG', 'PST', 'V']
+___________________________________________WORD:  do
+Occurance:  What do you like to do ?
+Proposed: {'FIN', 'PRS', 'V', 'IND'}
+Actual: ['PRS', 'IND', 'V', 'FIN']
+___________________________________________WORD:  do
+Occurance:  What do you like to do ?
+Proposed: {'NFIN', 'V'}
+Actual: ['NFIN', 'V']
+___________________________________________WORD:  do
+Occurance:  So was Darren there last night to meet her or do you just think they 'd make a good match ?
+Proposed: {'FIN', 'V', 'IND'}
+Actual: ['PRS', 'IND', 'V', 'FIN']
+___________________________________________WORD:  do
+Occurance:  They are invoicing for this and I do n't have an invoice for it .
+Proposed: {'FIN', 'PRS', 'V', 'IND'}
+Actual: ['PRS', 'IND', 'V', 'FIN']
+___________________________________________Sample set accuracy:  6.6

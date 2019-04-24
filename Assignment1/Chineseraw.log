@@ -1,0 +1,302 @@
+Running Raw 5 gram classifier on Chinese
+Total:	12298
+Total UNK words:  1510
+Total Errors:	1258
+Correct:	9530
+Total errors:  1258
+Accuracy:	0.7749227516669377
+Over all precision:  0.9241839241839241
+Over all recall:  0.9142361111111111
+Overall F1-score:  0.9191831035084657
+
+Tag  _
+Precision:  1.0
+Recall:  0.9917936694021102
+F1-score:  0.9958799293702179
+___________________________________
+Tag  ADP
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CAUS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CAUS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  0.9127906976744186
+Recall:  0.9289940828402367
+F1-score:  0.9208211143695014
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PASS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PART
+Precision:  0.9359567901234568
+Recall:  0.9210326499620349
+F1-score:  0.9284347493302718
+___________________________________
+Tag  N
+Precision:  0.9658554304395205
+Recall:  0.9034998301053347
+F1-score:  0.9336376404494383
+___________________________________
+Tag  PFV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PART
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADP
+Precision:  0.7355679702048417
+Recall:  0.79
+F1-score:  0.7618129218900674
+___________________________________
+Tag  PART
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  GEN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PART
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PROG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  DET
+Precision:  0.9343065693430657
+Recall:  0.847682119205298
+F1-score:  0.8888888888888888
+___________________________________
+Tag  GEN
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PART
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NEG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  ADV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PART
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  3
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CONJ
+Precision:  0.9124087591240876
+Recall:  0.7530120481927711
+F1-score:  0.8250825082508251
+___________________________________
+Tag  ADJ
+Precision:  0.9032258064516129
+Recall:  0.7686274509803922
+F1-score:  0.8305084745762712
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PART
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PFV
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  CAUS
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  V
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  1
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PRO
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PROG
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PART
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  PROPN
+Precision:  0.9846678023850085
+Recall:  0.9248
+F1-score:  0.9537953795379538
+___________________________________
+Tag  PL
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  N
+Precision:  1.0
+Recall:  0.0
+F1-score:  0.0
+___________________________________
+Tag  NUM
+Precision:  0.9913344887348353
+Recall:  1.0
+F1-score:  0.9956483899042645
+___________________________________
+Tag  ADV
+Precision:  0.9394495412844037
+Recall:  0.8722316865417377
+F1-score:  0.9045936395759717
+___________________________________
+Tag  V
+Precision:  0.902247191011236
+Recall:  0.8937117417918754
+F1-score:  0.8979591836734694
+___________________________________
+

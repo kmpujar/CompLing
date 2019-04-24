@@ -1,0 +1,3056 @@
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  filozof
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  parabol
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  terk
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  KİT
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Madem
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Allah
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  adam
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  matah
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  şey
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  lı
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Kamu
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Cumartesi
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Fizik
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  teori
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ifade
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Merak
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  görev
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  iki
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  CASA
+Actual: NOM;3;SG;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  AB
+Actual: NOM;SG;3;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  oldu
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gün
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  peynir
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Maastricht
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  yas
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Dr.
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  aldı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ses
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  görev
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  psikiyatrist
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Refahyol
+Actual: SG;NOM;PROPN;3;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  SİAD
+Actual: NOM;3;SG;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  Kamu
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  işçi
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  lı
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Pay
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  aldı
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  şey
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  çıktı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gitti
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  mekonomi
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bitti
+Actual: IND;PST;POS;3;PFV;SG;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Ramiz
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  TPAO
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Kıyı
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  park
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  Eğitim
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Mehmet
+Actual: SG;3;PROPN;NOM;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  Otobiyografi
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  zaman
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  gecekondu
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  pazar
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  LSD
+Actual: NOM;SG;3;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  fark
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  dedi
+Actual: IND;PST;POS;3;PFV;SG;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Kerem
+Actual: SG;NOM;PROPN;3;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Nihat
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  akımı
+Actual: PSS3S;3;NOM;SG;N;
+Predicted:  NOM;SG;3;N;PSS3S;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  iki
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  İş
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  gün
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Bey
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  gidip
+Actual: POS;PRS;IND;V.CVB;PFV;V;
+Predicted:  PFV;V;IND;POS;PRS;V.CVB;
+___________________________________
+Word:  ajans
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  Viski
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  aldı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  bitirdi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  kuvvet
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  zaman
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ev
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Recep
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  tehdit
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Platform
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  dans
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  geldi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  yıl
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  hapis
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ihmal
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  potansiyel
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  sınıf
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gün
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Berkeley
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  mühendislik
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  sabah
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  CHP
+Actual: NOM;3;SG;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  lu
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Şimdi
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  et
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  zamanı
+Actual: PSS3S;NOM;SG;3;N;
+Predicted:  NOM;SG;3;N;PSS3S;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  gösterdi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  umut
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  psikiyatrist
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  psikolog
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ev
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  devir
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  KDV
+Actual: NOM;SG;3;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ifade
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  söyledi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  dedi
+Actual: IND;PST;POS;3;PFV;SG;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Hacı
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Murat
+Actual: SG;NOM;PROPN;3;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  zaman
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Erbakan
+Actual: SG;3;PROPN;NOM;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  dedi
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ot
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  halk
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  THY
+Actual: NOM;SG;3;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Serhat
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  şey
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  şey
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  alıp
+Actual: PFV;PRS;V;IND;POS;V.CVB;
+Predicted:  PFV;V;IND;POS;PRS;V.CVB;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  TV
+Actual: NOM;SG;3;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  hayal
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  peynir
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  lu
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  veya
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  tedbir
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ad
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  lı
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  oldu
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  sıradanlık
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  çocuk
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  anlattı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  adam
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Park
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  anlattı
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  riayet
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  zam
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Korucu
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  teslim
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Madam
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  etti
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  hiç
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  zaman
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  pazar
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  müşteri
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  fiyat
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Alışveriş
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ad
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  lı
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  adam
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Telefon
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  oldu
+Actual: IND;PST;POS;3;PFV;SG;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  girdi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kişilik
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ABD
+Actual: NOM;3;SG;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  hayır
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  attı
+Actual: IND;PST;POS;3;PFV;SG;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  çocuk
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  müşteri
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  tenis
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  oldu
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  av
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  yıl
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  zaman
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  dikkat
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  söyledi
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  alıp
+Actual: PFV;PRS;V;IND;POS;V.CVB;
+Predicted:  PFV;V;IND;POS;PRS;V.CVB;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  buraya
+Actual: 3;DAT;PRO;SG;
+Predicted:  SG;3;DAT;PRO;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ona
+Actual: PRO;SG;3;DAT;
+Predicted:  SG;3;DAT;PRO;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  tepki
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  hapis
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  aday
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  oldu
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  adam
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  hiç
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  tarih
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  nohut
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  sınıf
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  fırsat
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ücret
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ücret
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  mühendis
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  fikir
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ona
+Actual: PRO;3;DAT;SG;
+Predicted:  SG;3;DAT;PRO;
+___________________________________
+Word:  haksızlık
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ayak
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Hayret
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  zaman
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  adam
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  el
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  merak
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  YTP
+Actual: NOM;3;SG;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  sohbet
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  et
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Evet
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  buraya
+Actual: 3;DAT;PRO;SG;
+Predicted:  SG;3;DAT;PRO;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  şey
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Kerem
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  açtı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  oldu
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  hükümet
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  verdi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Kerem
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  kişi
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  gün
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ikibinüç
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  baktı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Parti
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  iki
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  geldi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  üç
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  Materyalizm
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  idealizm
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  birer
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  fotokopi
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  bardak
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  terk
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  birer
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  garanti
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  iki
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  ders
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ayağı
+Actual: PSS3S;NOM;3;SG;N;
+Predicted:  NOM;SG;3;N;PSS3S;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  iki
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  girdi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  şey
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ter
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  zaman
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Rakı
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  iki
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  saat
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  oraya
+Actual: 3;DAT;PRO;SG;
+Predicted:  SG;3;DAT;PRO;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Kapı
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  oğul
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  baktı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Lor
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  THY
+Actual: NOM;3;SG;N;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  nöbetçi
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  söyledi
+Actual: IND;PST;POS;3;PFV;SG;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  açtı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  psikiyatrist
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  psikolog
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  süt
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ses
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Maliye
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  Başbakan
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Mehmet
+Actual: SG;3;PROPN;NOM;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  memur
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  maaş
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  etti
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Kerem
+Actual: SG;NOM;PROPN;3;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  mendil
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ter
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  referans
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  gün
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  ruh
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Hayır
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  hiç
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Bu
+Actual: DET;
+Predicted:  DET;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  verdi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  parmak
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  lı
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Berkeley
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  dikkat
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  veya
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  sözü
+Actual: PSS3S;NOM;3;SG;N;
+Predicted:  NOM;SG;3;N;PSS3S;
+___________________________________
+Word:  gözlem
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  terk
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  üç
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  üç
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  ona
+Actual: PRO;3;DAT;SG;
+Predicted:  SG;3;DAT;PRO;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  oldu
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  saat
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  parti
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Ter
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  mal
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  sınıf
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  dedi
+Actual: IND;PST;POS;3;PFV;SG;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  göz
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  servis
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  iki
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ile
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Pilaki
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Madem
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  hiç
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Ramiz
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ad
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  dedi
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Meral
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  ki
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  mal
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  li
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  söz
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  haber
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  Maliye
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  teftiş
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  cümbüş
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ücret
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ikiyüzyirmiüç.yedi
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  zamanı
+Actual: PSS3S;NOM;SG;3;N;
+Predicted:  NOM;SG;3;N;PSS3S;
+___________________________________
+Word:  geldi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  hak
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  el
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  kabul
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  etti
+Actual: IND;PST;POS;3;PFV;SG;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  hakim
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  ama
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  Golf
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  dans
+Actual: SG;3;N;NOM;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Alışveriş
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  lı
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  baktı
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  daha
+Actual: ADV;
+Predicted:  ADV;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  sabah
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  lı
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  Bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  verdi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  dedi
+Actual: PFV;PST;V;IND;SG;3;POS;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Prezervatif
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  de
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  gibi
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  ve
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  hak
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  af
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  kadar
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  bir
+Actual: NUM;
+Predicted:  NUM;
+___________________________________
+Word:  sabah
+Actual: SG;NOM;N;3;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Su
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  diye
+Actual: ADP;
+Predicted:  ADP;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________
+Word:  aldı
+Actual: PST;3;POS;IND;SG;PFV;V;
+Predicted:  SG;3;PFV;PST;V;IND;POS;
+___________________________________
+Word:  Baskı
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  görev
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  ağabey
+Actual: NOM;N;3;SG;
+Predicted:  NOM;SG;3;N;
+___________________________________
+Word:  Mehmet
+Actual: NOM;PROPN;3;SG;
+Predicted:  NOM;SG;3;PROPN;
+___________________________________
+Word:  ona
+Actual: PRO;SG;3;DAT;
+Predicted:  SG;3;DAT;PRO;
+___________________________________
+Word:  da
+Actual: CONJ;
+Predicted:  CONJ;
+___________________________________

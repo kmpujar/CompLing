@@ -1,0 +1,13 @@
+Results after 4 epochs...
+Word: Any  Actual: any  Predicted: any
+___________________________________________
+Word: US  Actual: US  Predicted: US
+___________________________________________
+Word: attack  Actual: attack  Predicted: attack
+___________________________________________
+Word: on  Actual: on  Predicted: on
+___________________________________________
+Word: Iran  Actual: Iran  Predicted: Iran
+___________________________________________
+Accuracy:  0.786554965263588
+

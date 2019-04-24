@@ -1,0 +1,253 @@
+0
+(('<s>', 'यथा'), 'तत्', 'ततो')
+1
+(('<s>', 'उक्तं'), 'यत', '<s>')
+2
+(('<s>', 'च'), 'अत्र', 'उक्तं')
+3
+(('<s>', 'प्रातः'), '<s>', 'अवश्यम्')
+4
+(('<s>', 'तत्र'), '<s>', 'वचः')
+5
+(('<s>', 'अहम्'), 'प्रथमम्', 'भद्र')
+6
+(('<s>', 'आह'), 'दमनक', 'दमनकः')
+7
+(('<s>', 'त्वाम्'), 'अहम्', '<s>')
+8
+(('<s>', 'न'), '<s>', 'सः')
+9
+(('<s>', 'अत्र'), 'अपृष्टः', '<s>')
+10
+(('न', 'ततः'), 'आगतः', 'करोमि')
+11
+(('न', '।'), 'सिध्यति', 'युक्तम्')
+12
+(('<s>', 'तत्'), 'नहि', 'अथ')
+13
+(('<s>', 'एवम्'), 'मया', '<s>')
+14
+(('कामशास्त्राणि', '।'), 'ज्ञायन्ते', 'वात्स्यायनादीनि')
+15
+(('<s>', 'त्वत्'), 'किन्तु', 'भद्रे')
+16
+(('<s>', 'अयम्'), 'यस्य', '<s>')
+17
+(('<s>', 'तावत्'), '<s>', 'अयम्')
+18
+(('च', '।'), 'इति', 'विघ्नाः')
+19
+(('<s>', 'तस्य'), 'तथा', 'किं')
+20
+(('इदम्', '।'), 'उवाच', 'अवतरति')
+21
+(('<s>', 'राजा'), 'ततः', 'सः')
+22
+(('<s>', 'एतत्'), 'कथम्', '<s>')
+23
+(('<s>', 'ते'), '<s>', 'अहम्')
+24
+(('<s>', 'किम्'), 'वयाम्सि', '<s>')
+25
+(('<s>', 'अस्ति'), 'अत्र', '<s>')
+26
+(('न', 'न'), 'विद्वान्', 'सूते')
+27
+(('<s>', 'उक्ते'), 'इति', 'एवम्')
+28
+(('अपि', '॥'), 'कर्हिचित्', 'तनयः')
+29
+(('<s>', 'अपि'), 'विष्णुशर्मणा', 'स्वल्पम्')
+30
+(('<s>', 'तया'), 'किम्', 'अथ')
+31
+(('<s>', 'कथम्'), 'देवः', 'तत्')
+32
+(('<s>', 'असौ'), 'ततः', 'कथम्')
+33
+(('यथा', '।'), 'श्रूयते', 'सुखम्')
+34
+(('बुद्धि', 'भवति'), 'प्रबोधनः', 'प्रबोधनं')
+35
+(('<s>', 'मम'), '<s>', 'श्रूयतां')
+36
+(('अस्ति', 'जनपदे'), 'दाक्षिणात्ये', 'दक्षिणात्ये')
+37
+(('नाम', '।'), 'राक्षसः', 'नगरम्')
+38
+(('<s>', 'अधुना'), '<s>', 'किम्')
+39
+(('<s>', 'कथामुखम्'), 'पञ्चतन्त्रम्', 'इति')
+40
+(('इति', '।'), 'कथामुखम्', 'बभूवुः')
+41
+(('निराकुलस्', '।'), 'तिष्ठ', 'तिष्ठति')
+42
+(('तत्र', '।'), 'गम्यते', 'सम्पदः')
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+lstm_1 (LSTM)                (None, 64)                32512     
+_________________________________________________________________
+1 (Dense)                    (None, 8)                 520       
+_________________________________________________________________
+repeat_vector_1 (RepeatVecto (None, 10, 8)             0         
+_________________________________________________________________
+lstm_2 (LSTM)                (None, 10, 64)            18688     
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 10, 64)            256       
+_________________________________________________________________
+time_distributed_1 (TimeDist (None, 10, 62)            4030      
+=================================================================
+Total params: 56,006
+Trainable params: 55,878
+Non-trainable params: 128
+_________________________________________________________________
+Epoch 1/10
+ - 3s - loss: 4.1301 - acc: 0.0116
+Epoch 2/10
+ - 0s - loss: 4.1096 - acc: 0.0209
+Epoch 3/10
+ - 0s - loss: 4.0883 - acc: 0.0349
+Epoch 4/10
+ - 0s - loss: 4.0675 - acc: 0.2279
+Epoch 5/10
+ - 0s - loss: 4.0449 - acc: 0.2884
+Epoch 6/10
+ - 0s - loss: 4.0200 - acc: 0.3000
+Epoch 7/10
+ - 0s - loss: 3.9932 - acc: 0.3047
+Epoch 8/10
+ - 0s - loss: 3.9640 - acc: 0.3070
+Epoch 9/10
+ - 0s - loss: 3.9321 - acc: 0.3093
+Epoch 10/10
+ - 0s - loss: 3.8974 - acc: 0.3070
+Evaluating Kmeans for Sanskrit with 32 clusters.
+Iteration 0...
+list index out of range
+Iteration 1...
+list index out of range
+Iteration 2...
+list index out of range
+Iteration 3...
+list index out of range
+Iteration 4...
+list index out of range
+Iteration 5...
+list index out of range
+Iteration 6...
+list index out of range
+Iteration 7...
+list index out of range
+Iteration 8...
+list index out of range
+Iteration 9...
+list index out of range
+Mean distance to the cluster center is: 0.008033514729341095
+The number of non-zero tags is: 30
+43
+Preprocessing the data using PCA...
+Computing pairwise distances...
+Computing P-values for point 0 of 43...
+Mean value of sigma: 0.175140
+Iteration 10: error is 10.579807
+Iteration 20: error is 9.620124
+Iteration 30: error is 8.587452
+Iteration 40: error is 9.984419
+Iteration 50: error is 8.865112
+Iteration 60: error is 9.864069
+Iteration 70: error is 10.202818
+Iteration 80: error is 9.560787
+Iteration 90: error is 9.861927
+Iteration 100: error is 9.401473
+Iteration 110: error is 1.015354
+Iteration 120: error is 0.946681
+Iteration 130: error is 0.872984
+Iteration 140: error is 0.832133
+Iteration 150: error is 0.790808
+Iteration 160: error is 0.764398
+Iteration 170: error is 0.734891
+Iteration 180: error is 0.685791
+Iteration 190: error is 0.664200
+Iteration 200: error is 0.653315
+Iteration 210: error is 0.617895
+Iteration 220: error is 0.555501
+Iteration 230: error is 0.522846
+Iteration 240: error is 0.486492
+Iteration 250: error is 0.439788
+Iteration 260: error is 0.394508
+Iteration 270: error is 0.356902
+Iteration 280: error is 0.335985
+Iteration 290: error is 0.329623
+Iteration 300: error is 0.323579
+Iteration 310: error is 0.316798
+Iteration 320: error is 0.310597
+Iteration 330: error is 0.307703
+Iteration 340: error is 0.306552
+Iteration 350: error is 0.305696
+Iteration 360: error is 0.304452
+Iteration 370: error is 0.303564
+Iteration 380: error is 0.300819
+Iteration 390: error is 0.299822
+Iteration 400: error is 0.299375
+Iteration 410: error is 0.299292
+Iteration 420: error is 0.299248
+Iteration 430: error is 0.299219
+Iteration 440: error is 0.299186
+Iteration 450: error is 0.299149
+Iteration 460: error is 0.299107
+Iteration 470: error is 0.299058
+Iteration 480: error is 0.298998
+Iteration 490: error is 0.298927
+Iteration 500: error is 0.298840
+Iteration 510: error is 0.298737
+Iteration 520: error is 0.298623
+Iteration 530: error is 0.298486
+Iteration 540: error is 0.298320
+Iteration 550: error is 0.298139
+Iteration 560: error is 0.297930
+Iteration 570: error is 0.297687
+Iteration 580: error is 0.297409
+Iteration 590: error is 0.297080
+Iteration 600: error is 0.296696
+Iteration 610: error is 0.296276
+Iteration 620: error is 0.295814
+Iteration 630: error is 0.295219
+Iteration 640: error is 0.294469
+Iteration 650: error is 0.293650
+Iteration 660: error is 0.292533
+Iteration 670: error is 0.290962
+Iteration 680: error is 0.288863
+Iteration 690: error is 0.285562
+Iteration 700: error is 0.281244
+Iteration 710: error is 0.269099
+Iteration 720: error is 0.267554
+Iteration 730: error is 0.199137
+Iteration 740: error is 0.090284
+Iteration 750: error is 0.047143
+Iteration 760: error is 0.023087
+Iteration 770: error is 0.014005
+Iteration 780: error is 0.011539
+Iteration 790: error is 0.010807
+Iteration 800: error is 0.010580
+Iteration 810: error is 0.010473
+Iteration 820: error is 0.010405
+Iteration 830: error is 0.010382
+Iteration 840: error is 0.010375
+Iteration 850: error is 0.010372
+Iteration 860: error is 0.010370
+Iteration 870: error is 0.010369
+Iteration 880: error is 0.010369
+Iteration 890: error is 0.010368
+Iteration 900: error is 0.010368
+Iteration 910: error is 0.010368
+Iteration 920: error is 0.010368
+Iteration 930: error is 0.010368
+Iteration 940: error is 0.010368
+Iteration 950: error is 0.010368
+Iteration 960: error is 0.010368
+Iteration 970: error is 0.010368
+Iteration 980: error is 0.010368
+Iteration 990: error is 0.010368
+Iteration 1000: error is 0.010368

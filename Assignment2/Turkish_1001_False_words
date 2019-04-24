@@ -1,0 +1,7600 @@
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  (
+Actual: _
+Predicted:  _
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  )
+Actual: _
+Predicted:  _
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  her
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  yere
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  filozof
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  parabol
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  onu
+Actual: 3SGPROACC
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  terk
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Allah
+Actual: NOMPROPN3SG
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  rahmet
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  adam
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  dı
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Hiç
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  matah
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  şey
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  aynı
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  lı
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  matematiğin
+Actual: SGGENN3
+Predicted:  SG3NGEN
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  dır
+Actual: V3PRSSGPFV
+Predicted:  SG3PFVVPRS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Cumartesi
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  kumun
+Actual: 3NSGGEN
+Predicted:  SG3NGEN
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  işgal
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bölgede
+Actual: SGESSN3
+Predicted:  SG3NESS
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  İsrail
+Actual: SGNOMPROPN3
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ifade
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Onun
+Actual: PROGEN3SG
+Predicted:  SG3PROGEN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  küçük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  olur
+Actual: HABPRSVINDSG3POS
+Predicted:  SG3VINDPOSPRSHAB
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  iki
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  her
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  getirdim
+Actual: INDPSTPOS1PFVSGV
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  demiş
+Actual: NFHINDPSTPOS3PFVSGV
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  yas
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  '
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Genel
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  Başkanı
+Actual: PSS3SNOMSG3N
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  olur
+Actual: INDPOS3PRSSGHABV
+Predicted:  SG3VINDPOSPRSHAB
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ses
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  onu
+Actual: PROACCSG3
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yapan
+Actual: PFVPRSVINDV.PTCPPOS
+Predicted:  PFVVINDPOSPRSV.PTCP
+___________________________________
+Word:  psikiyatrist
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Refahyol
+Actual: SGNOMPROPN3
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  '
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  '
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  lı
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  dır
+Actual: V3PRSPFVSG
+Predicted:  SG3PFVVPRS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Pay
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: 1PRONOMSG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  masanın
+Actual: 3NSGGEN
+Predicted:  SG3NGEN
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  onu
+Actual: 3SGPROACC
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  şey
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ortaya
+Actual: 3ADJDATSG
+Predicted:  SG3ADJDAT
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yılda
+Actual: 3NESSSG
+Predicted:  SG3NESS
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  uzun
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Orada
+Actual: 3ESSPROSG
+Predicted:  SG3ESSPRO
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çıkmış
+Actual: PST3POSINDSGPFVVNFH
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  mekonomi
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  olduğu
+Actual: PSS3SINDPSTPOSPFVV.PTCPV
+Predicted:  PFVPSTVINDPOSPSS3SV.PTCP
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  annem
+Actual: PSS1SNOMSG3N
+Predicted:  NOMSG3NPSS1S
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Türkiye'nin
+Actual: 3PROPNSGGEN
+Predicted:  SG3PROPNGEN
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  arada
+Actual: SGESSADJ3
+Predicted:  SG3ADJESS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  park
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  (
+Actual: _
+Predicted:  _
+___________________________________
+Word:  )
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  haberin
+Actual: SGGENN3
+Predicted:  SG3NGEN
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  zaman
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  gecekondu
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ydi
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ona
+Actual: PROSG3DAT
+Predicted:  SG3DATPRO
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: 1PRONOMSG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: INDPSTPOS3PFVSGV
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  kıyafet
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  iki
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: 1PRONOMSG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gördüm
+Actual: 1PFVPSTVINDSGPOS
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  küçük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  olur
+Actual: HABPRSVINDSG3POS
+Predicted:  SG3VINDPOSPRSHAB
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bey
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  demiş
+Actual: PFVPSTVNFHINDSG3POS
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  küçük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gidip
+Actual: POSPRSINDV.CVBPFVV
+Predicted:  PFVVINDPOSPRSV.CVB
+___________________________________
+Word:  ajans
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  kuvvet
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  zaman
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ev
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Recep
+Actual: NOMPROPN3SG
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ona
+Actual: DAT3SGPRO
+Predicted:  SG3DATPRO
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  tehdit
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  beni
+Actual: 1PROACCSG
+Predicted:  SGACC1PRO
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  payı
+Actual: PSS3S3NOMSGN
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  payı
+Actual: PSS3S3NOMSGN
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  uzun
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  yıl
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  hapis
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  )
+Actual: _
+Predicted:  _
+___________________________________
+Word:  potansiyel
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  Celal
+Actual: SGNOMPROPN3
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yola
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  olduğu
+Actual: PSS3SPSTPOSINDPFVV.PTCPV
+Predicted:  PFVPSTVINDPOSPSS3SV.PTCP
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  olduğu
+Actual: PSS3SPSTPOSINDPFVV.PTCPV
+Predicted:  PFVPSTVINDPOSPSS3SV.PTCP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  aynı
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  böyle
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  (
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  )
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  İstanbul
+Actual: NOMPROPN3SG
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  '
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: 1PRONOMSG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  her
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  sabah
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  yanık
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  lu
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  eve
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  beni
+Actual: 1SGPROACC
+Predicted:  SGACC1PRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  umut
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  psikiyatrist
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yok
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  aynı
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ev
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ydi
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hep
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ydı
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ifade
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ele
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  söyledi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  cevabı
+Actual: PSS3SNOM3SGN
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  beni
+Actual: 1PROACCSG
+Predicted:  SGACC1PRO
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: INDPSTPOS3PFVSGV
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  zaman
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Türkiye'nin
+Actual: SGGENPROPN3
+Predicted:  SG3PROPNGEN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PST3POSINDSGPFVV
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dı
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bakanı
+Actual: PSS3SNOMSG3N
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  dı
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  şey
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  Kemal
+Actual: NOMPROPN3SG
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  şey
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Celal
+Actual: NOMPROPN3SG
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  alıp
+Actual: PFVPRSVINDPOSV.CVB
+Predicted:  PFVVINDPOSPRSV.CVB
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  rakının
+Actual: SGGENN3
+Predicted:  SG3NGEN
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  dır
+Actual: V3PRSSGPFV
+Predicted:  SG3PFVVPRS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  lu
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  adamın
+Actual: 3NSGGEN
+Predicted:  SG3NGEN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  dır
+Actual: PFVPRSVSG3
+Predicted:  SG3PFVVPRS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  yeni
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  veya
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  '
+Actual: _
+Predicted:  _
+___________________________________
+Word:  '
+Actual: _
+Predicted:  _
+___________________________________
+Word:  lı
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  dı
+Actual: VINDPST3PFVSG
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  çocuk
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: 1PRONOMSG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedim
+Actual: 1PFVPSTVINDSGPOS
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  adam
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  böyle
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Park
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  iyi
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: 1PRONOMSG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ..
+Actual: _
+Predicted:  _
+___________________________________
+Word:  şair
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  aynı
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  riayet
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  zam
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  gelmiş
+Actual: PFVPSTVNFHINDSG3POS
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yapan
+Actual: POSPRSINDPFVV.PTCPV
+Predicted:  PFVVINDPOSPRSV.PTCP
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hiç
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  zaman
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  dı
+Actual: VINDPST3PFVSG
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Türkiye'nin
+Actual: GENSGPROPN3
+Predicted:  SG3PROPNGEN
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedim
+Actual: 1PFVPSTVINDSGPOS
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  fiyat
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  (
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  )
+Actual: _
+Predicted:  _
+___________________________________
+Word:  lı
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Onu
+Actual: PROACCSG3
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  adam
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ona
+Actual: PROSG3DAT
+Predicted:  SG3DATPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bin
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  '
+Actual: _
+Predicted:  _
+___________________________________
+Word:  '
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  çocuk
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  onu
+Actual: PROACCSG3
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: 1PRONOMSG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  tenis
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  yok
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  olur
+Actual: HABPRSVINDSG3POS
+Predicted:  SG3VINDPOSPRSHAB
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  )
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  av
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yıl
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  zaman
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dikkat
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  söyledi
+Actual: PST3POSINDSGPFVV
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Genel
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Partisi
+Actual: PSS3SNOMSG3N
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  alıp
+Actual: PFVPRSVINDPOSV.CVB
+Predicted:  PFVVINDPOSPRSV.CVB
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ona
+Actual: PROSG3DAT
+Predicted:  SG3DATPRO
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  her
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ydu
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ona
+Actual: PROSG3DAT
+Predicted:  SG3DATPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Onu
+Actual: PROACC3SG
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hapis
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  aday
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  adam
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  küçük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hiç
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  onu
+Actual: PROACCSG3
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  burada
+Actual: 3ESSPROSG
+Predicted:  SG3ESSPRO
+___________________________________
+Word:  tarih
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ele
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  nohut
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: 1PRONOMSG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Onun
+Actual: 3SGPROGEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  fırsat
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ücret
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ücret
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  mühendis
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  genel
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ona
+Actual: PRO3DATSG
+Predicted:  SG3DATPRO
+___________________________________
+Word:  haksızlık
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Hayret
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  zaman
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dır
+Actual: V3PRSPFVSG
+Predicted:  SG3PFVVPRS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  aynı
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  adam
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  olduğu
+Actual: PSS3SPSTPOSINDPFVV.PTCPV
+Predicted:  PFVPSTVINDPOSPSS3SV.PTCP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  merak
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Genel
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  Başkanı
+Actual: PSS3SNOM3SGN
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  İsmail
+Actual: SGNOMPROPN3
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  sohbet
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Evet
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  şey
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  demiş
+Actual: PFVPSTVNFHINDSG3POS
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ..
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  her
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ..
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dönüp
+Actual: PFVPRSVINDPOSV.CVB
+Predicted:  PFVVINDPOSPRSV.CVB
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  hükümet
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  formülü
+Actual: PSS3SNOMSG3N
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Hiç
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  olsa
+Actual: 3POSPRSSGPFVV
+Predicted:  SG3PFVVPOSPRS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ikibinüç
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yeni
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ihtiyacı
+Actual: PSS3S3NOMSGN
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ydi
+Actual: PSTV3INDSGPFV
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  iki
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  üç
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  (
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  idealizm
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  oldum
+Actual: 1PFVPSTVINDSGPOS
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  birer
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  terk
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  birer
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dır
+Actual: PFVPRSVSG3
+Predicted:  SG3PFVVPRS
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yeni
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  iki
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ydi
+Actual: PSTV3INDSGPFV
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ders
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  iki
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ben
+Actual: PRONOM1SG
+Predicted:  NOMSG1PRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Onu
+Actual: PROACCSG3
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  beni
+Actual: 1PROACCSG
+Predicted:  SGACC1PRO
+___________________________________
+Word:  şey
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ter
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ortaya
+Actual: 3ADJDATSG
+Predicted:  SG3ADJDAT
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  zaman
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  iki
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  saat
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  kaymış
+Actual: NFHINDPSTPOS3PFVSGV
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Kemal
+Actual: NOMPROPN3SG
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  her
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Kapı
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  gürültü
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Başkanı
+Actual: PSS3SNOM3SGN
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  Pilot
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ailenin
+Actual: GENSGN3
+Predicted:  SG3NGEN
+___________________________________
+Word:  (
+Actual: _
+Predicted:  _
+___________________________________
+Word:  )
+Actual: _
+Predicted:  _
+___________________________________
+Word:  söyledi
+Actual: INDPSTPOS3PFVSGV
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  onu
+Actual: 3SGPROACC
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  İstanbul
+Actual: NOMPROPN3SG
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  genel
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  psikiyatrist
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  süt
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ses
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  kalıp
+Actual: INDPOSPRSPFVV.CVBV
+Predicted:  PFVVINDPOSPRSV.CVB
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bakanı
+Actual: PSS3SNOMSG3N
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  iyi
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  iyi
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  elektrik
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yeşil
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  memur
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  yeni
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  mendil
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ter
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  referans
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ihalesi
+Actual: PSS3SNOMSG3N
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  yola
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  masanın
+Actual: GENSGN3
+Predicted:  SG3NGEN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedim
+Actual: INDPSTPOS1PFVSGV
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  dedim
+Actual: 1PFVPSTVINDSGPOS
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Hayır
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hiç
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  onu
+Actual: PROACCSG3
+Predicted:  SG3ACCPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedim
+Actual: 1PFVPSTVINDSGPOS
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  parmak
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  lı
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  burada
+Actual: 3ESSPROSG
+Predicted:  SG3ESSPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dikkat
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  veya
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  terk
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ydı
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Kimse
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  beni
+Actual: 1PROACCSG
+Predicted:  SGACC1PRO
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  üç
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  geldim
+Actual: 1PFVPSTVINDSGPOS
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  eve
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  acı
+Actual: SG3ADJNOM
+Predicted:  NOMSG3ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bin
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  üç
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  bin
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ona
+Actual: PRO3DATSG
+Predicted:  SG3DATPRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  yere
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  içeriye
+Actual: 3NDATSG
+Predicted:  SG3NDAT
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedim
+Actual: 1PFVPSTVINDSGPOS
+Predicted:  SGPFVPSTVINDPOS1
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  saat
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ter
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  servet
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  -
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  dedi
+Actual: INDPSTPOS3PFVSGV
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  annem
+Actual: PSS1SNOM3SGN
+Predicted:  NOMSG3NPSS1S
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  çok
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  yok
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  servis
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  iki
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  :
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ile
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  Pilaki
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  demiş
+Actual: PFVPSTVNFHINDSG3POS
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hiç
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  onun
+Actual: PROSG3GEN
+Predicted:  SG3PROGEN
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  demiş
+Actual: PFVPSTVNFHINDSG3POS
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  olur
+Actual: HABPRSVINDSG3POS
+Predicted:  SG3VINDPOSPRSHAB
+___________________________________
+Word:  dı
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PST3POSINDSGPFVV
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Meral
+Actual: NOMPROPN3SG
+Predicted:  NOMSG3PROPN
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Kilise
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  ki
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  insanlığın
+Actual: SGGENN3
+Predicted:  SG3NGEN
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  zahmet
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  li
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yok
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ydü
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  vurmuş
+Actual: PFVPSTVNFHINDSG3POS
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  pencerenin
+Actual: GENSGN3
+Predicted:  SG3NGEN
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ydı
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Türkiye'nin
+Actual: SGGENPROPN3
+Predicted:  SG3PROPNGEN
+___________________________________
+Word:  gözbebeği
+Actual: PSS3S3NOMSGN
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ücret
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ikiyüzyirmiüç.yedi
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ihtimali
+Actual: PSS3SNOMSG3N
+Predicted:  NOMSG3NPSS3S
+___________________________________
+Word:  üzerinde
+Actual: PSS3SSG3NESS
+Predicted:  SG3NESSPSS3S
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hak
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  yok
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ele
+Actual: SGDATN3
+Predicted:  SG3NDAT
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  kabul
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hakim
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hep
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  yeni
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  getirmiş
+Actual: PST3POSINDSGPFVVNFH
+Predicted:  SG3PFVPSTVINDPOSNFH
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ama
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ;
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ise
+Actual: V
+Predicted:  V
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  onun
+Actual: PROGEN3SG
+Predicted:  SG3PROGEN
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Golf
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  masanın
+Actual: SGGENN3
+Predicted:  SG3NGEN
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  beni
+Actual: 1PROACCSG
+Predicted:  SGACC1PRO
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  lı
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  nasıl
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  daha
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  uzun
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  ydu
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  geberip
+Actual: PFVPRSVINDPOSV.CVB
+Predicted:  PFVVINDPOSPRSV.CVB
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Kimse
+Actual: SG3NNOM
+Predicted:  NOMSG3N
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  sabah
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  lı
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  !
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  Bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  dedi
+Actual: PFVPSTVINDSG3POS
+Predicted:  SG3PFVPSTVINDPOS
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Prezervatif
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  yok
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  büyük
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  de
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ?
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  gibi
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  ...
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ve
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  hak
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  için
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  af
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  olduğu
+Actual: PSS3SPFVPSTVINDV.PTCPPOS
+Predicted:  PFVPSTVINDPOSPSS3SV.PTCP
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bir
+Actual: NUM
+Predicted:  NUM
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  bu
+Actual: DET
+Predicted:  DET
+___________________________________
+Word:  sabah
+Actual: SGNOMN3
+Predicted:  NOMSG3N
+___________________________________
+Word:  beni
+Actual: PROACC1SG
+Predicted:  SGACC1PRO
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  diye
+Actual: ADP
+Predicted:  ADP
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  Baskı
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  yok
+Actual: ADJ
+Predicted:  ADJ
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ortaya
+Actual: SGDATADJ3
+Predicted:  SG3ADJDAT
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ağabey
+Actual: NOMN3SG
+Predicted:  NOMSG3N
+___________________________________
+Word:  ,
+Actual: _
+Predicted:  _
+___________________________________
+Word:  "
+Actual: _
+Predicted:  _
+___________________________________
+Word:  ona
+Actual: PROSG3DAT
+Predicted:  SG3DATPRO
+___________________________________
+Word:  nasıl
+Actual: ADV
+Predicted:  ADV
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
+Word:  da
+Actual: CONJ
+Predicted:  CONJ
+___________________________________
+Word:  ydi
+Actual: PFVVPSTINDSG3
+Predicted:  SG3PFVPSTVIND
+___________________________________
+Word:  .
+Actual: _
+Predicted:  _
+___________________________________
